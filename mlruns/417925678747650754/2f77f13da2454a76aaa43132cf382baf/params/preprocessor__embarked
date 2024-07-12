@@ -1,0 +1,3 @@
+Pipeline(steps=[('impute', SimpleImputer(strategy='most_frequent')),
+                ('count_encode', CountFrequencyEncoder()),
+                ('scale', MinMaxScaler())])

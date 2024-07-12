@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/417925678747650754/7bba78687f764c27b9def7b28a137d7e/artifacts
+end_time: 1720802220585
+entry_point_name: ''
+experiment_id: '417925678747650754'
+lifecycle_stage: active
+run_id: 7bba78687f764c27b9def7b28a137d7e
+run_name: fourth run
+run_uuid: 7bba78687f764c27b9def7b28a137d7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720802165894
+status: 4
+tags: []
+user_id: himan
