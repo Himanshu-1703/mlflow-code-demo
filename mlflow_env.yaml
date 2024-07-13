@@ -172,8 +172,6 @@ dependencies:
       - docker==7.1.0
       - flask==3.0.3
       - fonttools==4.53.0
-      - gitdb==4.0.11
-      - gitpython==3.1.43
       - graphene==3.3
       - graphql-core==3.2.3
       - graphql-relay==3.2.0
@@ -192,12 +190,11 @@ dependencies:
       - pillow==10.3.0
       - protobuf==4.25.3
       - pyarrow==15.0.2
-      - pyparsing==3.1.2
       - querystring-parser==1.2.4
-      - smmap==5.0.1
+      - seaborn==0.13.2
       - sqlalchemy==2.0.31
       - sqlparse==0.5.0
       - waitress==3.0.0
       - werkzeug==3.0.3
       - wrapt==1.16.0
-prefix: C:\Users\himan\miniconda3\envs\mlflow
+prefix: C:\Users\himan\anaconda3\envs\mlflow
