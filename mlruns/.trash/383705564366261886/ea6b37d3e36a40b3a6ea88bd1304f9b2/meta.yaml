@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/383705564366261886/ea6b37d3e36a40b3a6ea88bd1304f9b2/artifacts
+deleted_time: 1721139927403
+end_time: 1721137104027
+entry_point_name: ''
+experiment_id: '383705564366261886'
+lifecycle_stage: deleted
+run_id: ea6b37d3e36a40b3a6ea88bd1304f9b2
+run_name: melodic-conch-747
+run_uuid: ea6b37d3e36a40b3a6ea88bd1304f9b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721136959818
+status: 3
+tags: []
+user_id: himan

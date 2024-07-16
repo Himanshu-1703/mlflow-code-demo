@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/458d4ac5536e4c7390c7c8531688185e/artifacts
+deleted_time: 1721149478685
+end_time: 1721149415896
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 458d4ac5536e4c7390c7c8531688185e
+run_name: capricious-roo-834
+run_uuid: 458d4ac5536e4c7390c7c8531688185e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149415083
+status: 3
+tags: []
+user_id: himan

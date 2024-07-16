@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/ef0334203e6d4ee5b7eedf847877db7d/artifacts
+deleted_time: 1721139922118
+end_time: 1721139308451
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: ef0334203e6d4ee5b7eedf847877db7d
+run_name: skillful-stag-436
+run_uuid: ef0334203e6d4ee5b7eedf847877db7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139307767
+status: 3
+tags: []
+user_id: himan

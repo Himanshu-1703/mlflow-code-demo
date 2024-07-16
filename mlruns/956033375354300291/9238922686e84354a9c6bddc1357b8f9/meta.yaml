@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/9238922686e84354a9c6bddc1357b8f9/artifacts
+end_time: 1721149548350
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 9238922686e84354a9c6bddc1357b8f9
+run_name: persistent-steed-642
+run_uuid: 9238922686e84354a9c6bddc1357b8f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149547720
+status: 3
+tags: []
+user_id: himan

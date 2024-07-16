@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/054b0897192244dca01a3df7c2f0ddc8/artifacts
+deleted_time: 1721148913553
+end_time: 1721148084294
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 054b0897192244dca01a3df7c2f0ddc8
+run_name: wistful-colt-188
+run_uuid: 054b0897192244dca01a3df7c2f0ddc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148082525
+status: 3
+tags: []
+user_id: himan

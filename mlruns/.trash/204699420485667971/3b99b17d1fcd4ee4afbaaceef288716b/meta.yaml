@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/3b99b17d1fcd4ee4afbaaceef288716b/artifacts
+deleted_time: 1721149478685
+end_time: 1721149165577
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 3b99b17d1fcd4ee4afbaaceef288716b
+run_name: chill-bee-425
+run_uuid: 3b99b17d1fcd4ee4afbaaceef288716b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149164937
+status: 3
+tags: []
+user_id: himan

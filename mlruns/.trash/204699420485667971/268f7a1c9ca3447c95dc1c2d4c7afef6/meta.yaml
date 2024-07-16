@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/268f7a1c9ca3447c95dc1c2d4c7afef6/artifacts
+deleted_time: 1721149478685
+end_time: 1721149406196
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 268f7a1c9ca3447c95dc1c2d4c7afef6
+run_name: aged-sheep-50
+run_uuid: 268f7a1c9ca3447c95dc1c2d4c7afef6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149405427
+status: 3
+tags: []
+user_id: himan

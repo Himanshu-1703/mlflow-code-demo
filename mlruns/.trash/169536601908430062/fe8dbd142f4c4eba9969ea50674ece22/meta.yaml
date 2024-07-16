@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/fe8dbd142f4c4eba9969ea50674ece22/artifacts
+deleted_time: 1721140444737
+end_time: 1721140331070
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: fe8dbd142f4c4eba9969ea50674ece22
+run_name: gifted-ray-44
+run_uuid: fe8dbd142f4c4eba9969ea50674ece22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140330011
+status: 3
+tags: []
+user_id: himan

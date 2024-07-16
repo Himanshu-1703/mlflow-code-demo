@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/281ce40e212b40728baf6597a311c55e/artifacts
+deleted_time: 1721148913553
+end_time: 1721148064993
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 281ce40e212b40728baf6597a311c55e
+run_name: wistful-grouse-209
+run_uuid: 281ce40e212b40728baf6597a311c55e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148064525
+status: 3
+tags: []
+user_id: himan

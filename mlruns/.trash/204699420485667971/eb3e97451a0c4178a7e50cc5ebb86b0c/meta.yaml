@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/eb3e97451a0c4178a7e50cc5ebb86b0c/artifacts
+deleted_time: 1721149478685
+end_time: 1721149193219
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: eb3e97451a0c4178a7e50cc5ebb86b0c
+run_name: gregarious-fawn-194
+run_uuid: eb3e97451a0c4178a7e50cc5ebb86b0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149192662
+status: 3
+tags: []
+user_id: himan

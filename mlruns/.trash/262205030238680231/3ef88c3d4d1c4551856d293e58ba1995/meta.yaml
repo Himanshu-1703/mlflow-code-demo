@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/3ef88c3d4d1c4551856d293e58ba1995/artifacts
+deleted_time: 1721139922118
+end_time: 1721139503680
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: 3ef88c3d4d1c4551856d293e58ba1995
+run_name: learned-goose-471
+run_uuid: 3ef88c3d4d1c4551856d293e58ba1995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139503169
+status: 3
+tags: []
+user_id: himan

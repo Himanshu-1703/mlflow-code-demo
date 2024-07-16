@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/d4b83090a3ed4c86ad4757afd22c2a6b/artifacts
+deleted_time: 1721139922118
+end_time: 1721139312527
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: d4b83090a3ed4c86ad4757afd22c2a6b
+run_name: stylish-foal-443
+run_uuid: d4b83090a3ed4c86ad4757afd22c2a6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139312159
+status: 3
+tags: []
+user_id: himan

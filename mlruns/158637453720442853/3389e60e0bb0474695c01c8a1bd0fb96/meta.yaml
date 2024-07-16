@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/158637453720442853/3389e60e0bb0474695c01c8a1bd0fb96/artifacts
+end_time: 1721149747654
+entry_point_name: ''
+experiment_id: '158637453720442853'
+lifecycle_stage: active
+run_id: 3389e60e0bb0474695c01c8a1bd0fb96
+run_name: invincible-flea-216
+run_uuid: 3389e60e0bb0474695c01c8a1bd0fb96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149656503
+status: 3
+tags: []
+user_id: himan

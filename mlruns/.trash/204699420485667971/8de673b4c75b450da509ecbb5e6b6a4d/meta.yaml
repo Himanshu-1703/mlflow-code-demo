@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/8de673b4c75b450da509ecbb5e6b6a4d/artifacts
+deleted_time: 1721149478685
+end_time: 1721149314991
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 8de673b4c75b450da509ecbb5e6b6a4d
+run_name: wistful-frog-169
+run_uuid: 8de673b4c75b450da509ecbb5e6b6a4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149314426
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/6ca0dabbbadc470e8db03711c16ddd01/artifacts
+deleted_time: 1721149478685
+end_time: 1721149325102
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 6ca0dabbbadc470e8db03711c16ddd01
+run_name: shivering-vole-851
+run_uuid: 6ca0dabbbadc470e8db03711c16ddd01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149324583
+status: 3
+tags: []
+user_id: himan

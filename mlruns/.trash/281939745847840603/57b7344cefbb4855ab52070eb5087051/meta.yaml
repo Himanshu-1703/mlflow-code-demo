@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/57b7344cefbb4855ab52070eb5087051/artifacts
+deleted_time: 1721148913553
+end_time: 1721148075907
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 57b7344cefbb4855ab52070eb5087051
+run_name: judicious-stoat-55
+run_uuid: 57b7344cefbb4855ab52070eb5087051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148075263
+status: 3
+tags: []
+user_id: himan

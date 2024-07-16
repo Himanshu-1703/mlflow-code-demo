@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/aefc731e2fb648959378cc0ba2fd5982/artifacts
+deleted_time: 1721139922118
+end_time: 1721139314892
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: aefc731e2fb648959378cc0ba2fd5982
+run_name: nervous-panda-108
+run_uuid: aefc731e2fb648959378cc0ba2fd5982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139314292
+status: 3
+tags: []
+user_id: himan

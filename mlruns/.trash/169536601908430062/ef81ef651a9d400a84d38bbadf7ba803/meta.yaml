@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/ef81ef651a9d400a84d38bbadf7ba803/artifacts
+deleted_time: 1721140444737
+end_time: 1721140340652
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: ef81ef651a9d400a84d38bbadf7ba803
+run_name: brawny-colt-360
+run_uuid: ef81ef651a9d400a84d38bbadf7ba803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140339509
+status: 3
+tags: []
+user_id: himan

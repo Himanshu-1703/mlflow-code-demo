@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/42b0c5667a3c4b39a27c3044c8b53369/artifacts
+end_time: 1721149534980
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 42b0c5667a3c4b39a27c3044c8b53369
+run_name: respected-skink-641
+run_uuid: 42b0c5667a3c4b39a27c3044c8b53369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149534430
+status: 3
+tags: []
+user_id: himan

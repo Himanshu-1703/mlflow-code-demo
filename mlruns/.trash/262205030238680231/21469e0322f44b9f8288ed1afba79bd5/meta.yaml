@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/21469e0322f44b9f8288ed1afba79bd5/artifacts
+deleted_time: 1721139922118
+end_time: 1721139318372
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: 21469e0322f44b9f8288ed1afba79bd5
+run_name: debonair-mole-822
+run_uuid: 21469e0322f44b9f8288ed1afba79bd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139317585
+status: 3
+tags: []
+user_id: himan

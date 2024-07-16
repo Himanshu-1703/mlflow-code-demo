@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/d08019c1d2064c1f9cee9998ab8c7514/artifacts
+deleted_time: 1721139922118
+end_time: 1721139299620
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: d08019c1d2064c1f9cee9998ab8c7514
+run_name: flawless-bee-96
+run_uuid: d08019c1d2064c1f9cee9998ab8c7514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139298972
+status: 3
+tags: []
+user_id: himan

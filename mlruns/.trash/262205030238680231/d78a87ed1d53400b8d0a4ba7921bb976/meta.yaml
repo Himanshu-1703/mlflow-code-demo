@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/d78a87ed1d53400b8d0a4ba7921bb976/artifacts
+deleted_time: 1721139922118
+end_time: 1721139494748
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: d78a87ed1d53400b8d0a4ba7921bb976
+run_name: carefree-foal-556
+run_uuid: d78a87ed1d53400b8d0a4ba7921bb976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139494187
+status: 3
+tags: []
+user_id: himan

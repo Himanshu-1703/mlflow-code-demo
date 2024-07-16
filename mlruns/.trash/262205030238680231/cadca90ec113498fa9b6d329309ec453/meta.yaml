@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/cadca90ec113498fa9b6d329309ec453/artifacts
+deleted_time: 1721139922118
+end_time: 1721139060700
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: cadca90ec113498fa9b6d329309ec453
+run_name: enchanting-sheep-487
+run_uuid: cadca90ec113498fa9b6d329309ec453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139060271
+status: 3
+tags: []
+user_id: himan

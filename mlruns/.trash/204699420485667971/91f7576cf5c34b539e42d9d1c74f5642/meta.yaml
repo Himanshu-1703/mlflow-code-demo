@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/91f7576cf5c34b539e42d9d1c74f5642/artifacts
+deleted_time: 1721149478685
+end_time: 1721149217842
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 91f7576cf5c34b539e42d9d1c74f5642
+run_name: bold-dog-35
+run_uuid: 91f7576cf5c34b539e42d9d1c74f5642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149217101
+status: 3
+tags: []
+user_id: himan

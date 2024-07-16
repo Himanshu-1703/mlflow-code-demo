@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/72177f62fc8e47488213b955cd4abe70/artifacts
+deleted_time: 1721149478685
+end_time: 1721149411366
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 72177f62fc8e47488213b955cd4abe70
+run_name: calm-gnu-4
+run_uuid: 72177f62fc8e47488213b955cd4abe70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149410662
+status: 3
+tags: []
+user_id: himan

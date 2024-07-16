@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/85249a0e82dc415faba32c9b2d6aa9d4/artifacts
+deleted_time: 1721149478685
+end_time: 1721149197232
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 85249a0e82dc415faba32c9b2d6aa9d4
+run_name: likeable-ant-551
+run_uuid: 85249a0e82dc415faba32c9b2d6aa9d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149196625
+status: 3
+tags: []
+user_id: himan

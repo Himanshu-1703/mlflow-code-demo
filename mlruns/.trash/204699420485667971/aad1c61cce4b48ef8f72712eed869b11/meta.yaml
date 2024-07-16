@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/aad1c61cce4b48ef8f72712eed869b11/artifacts
+deleted_time: 1721149478685
+end_time: 1721149215067
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: aad1c61cce4b48ef8f72712eed869b11
+run_name: carefree-lynx-24
+run_uuid: aad1c61cce4b48ef8f72712eed869b11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149214181
+status: 3
+tags: []
+user_id: himan

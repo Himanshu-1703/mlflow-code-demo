@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/c1418af47df543edab717726c6796881/artifacts
+deleted_time: 1721139922118
+end_time: 1721139315542
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: c1418af47df543edab717726c6796881
+run_name: rumbling-fish-62
+run_uuid: c1418af47df543edab717726c6796881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139314971
+status: 3
+tags: []
+user_id: himan

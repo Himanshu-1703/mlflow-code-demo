@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/ec5dee928d94486f86dbac07a371ea96/artifacts
+end_time: 1721149555675
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: ec5dee928d94486f86dbac07a371ea96
+run_name: luxuriant-deer-585
+run_uuid: ec5dee928d94486f86dbac07a371ea96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149555105
+status: 3
+tags: []
+user_id: himan

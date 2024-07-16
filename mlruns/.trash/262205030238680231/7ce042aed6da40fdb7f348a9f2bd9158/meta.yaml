@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/7ce042aed6da40fdb7f348a9f2bd9158/artifacts
+deleted_time: 1721139922118
+end_time: 1721139506004
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: 7ce042aed6da40fdb7f348a9f2bd9158
+run_name: nimble-shrimp-91
+run_uuid: 7ce042aed6da40fdb7f348a9f2bd9158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139505727
+status: 3
+tags: []
+user_id: himan

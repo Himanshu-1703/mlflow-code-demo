@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/962de0cc2ed8486eb3719216cefa3d5f/artifacts
+deleted_time: 1721149478685
+end_time: 1721149231552
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 962de0cc2ed8486eb3719216cefa3d5f
+run_name: casual-skunk-385
+run_uuid: 962de0cc2ed8486eb3719216cefa3d5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149230782
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/16785128a07c4c528c5e6c28910ef2ca/artifacts
+deleted_time: 1721139922118
+end_time: 1721139083802
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: 16785128a07c4c528c5e6c28910ef2ca
+run_name: fortunate-trout-523
+run_uuid: 16785128a07c4c528c5e6c28910ef2ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139083313
+status: 3
+tags: []
+user_id: himan

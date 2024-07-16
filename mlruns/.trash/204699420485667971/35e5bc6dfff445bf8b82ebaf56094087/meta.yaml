@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/35e5bc6dfff445bf8b82ebaf56094087/artifacts
+deleted_time: 1721149478685
+end_time: 1721149355981
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 35e5bc6dfff445bf8b82ebaf56094087
+run_name: treasured-cub-979
+run_uuid: 35e5bc6dfff445bf8b82ebaf56094087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149355232
+status: 3
+tags: []
+user_id: himan

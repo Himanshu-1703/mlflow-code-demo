@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/ab7e2b4567174983a58a0abdc931bfec/artifacts
+deleted_time: 1721149478685
+end_time: 1721149360052
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: ab7e2b4567174983a58a0abdc931bfec
+run_name: omniscient-shad-409
+run_uuid: ab7e2b4567174983a58a0abdc931bfec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149359161
+status: 3
+tags: []
+user_id: himan

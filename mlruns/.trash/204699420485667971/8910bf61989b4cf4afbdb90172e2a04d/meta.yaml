@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/8910bf61989b4cf4afbdb90172e2a04d/artifacts
+deleted_time: 1721149478685
+end_time: 1721149214102
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 8910bf61989b4cf4afbdb90172e2a04d
+run_name: stylish-dolphin-397
+run_uuid: 8910bf61989b4cf4afbdb90172e2a04d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149213467
+status: 3
+tags: []
+user_id: himan

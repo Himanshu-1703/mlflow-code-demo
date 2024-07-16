@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/08186db12e4e41c9aa737e0d2a8e9a66/artifacts
+deleted_time: 1721148913553
+end_time: 1721148091006
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 08186db12e4e41c9aa737e0d2a8e9a66
+run_name: upset-asp-337
+run_uuid: 08186db12e4e41c9aa737e0d2a8e9a66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148089409
+status: 3
+tags: []
+user_id: himan

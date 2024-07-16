@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/9b45c42899424c1c810ca60ff89dff79/artifacts
+deleted_time: 1721149478685
+end_time: 1721149320533
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 9b45c42899424c1c810ca60ff89dff79
+run_name: invincible-duck-307
+run_uuid: 9b45c42899424c1c810ca60ff89dff79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149319977
+status: 3
+tags: []
+user_id: himan

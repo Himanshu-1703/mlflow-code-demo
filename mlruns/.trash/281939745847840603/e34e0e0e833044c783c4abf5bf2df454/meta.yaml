@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/e34e0e0e833044c783c4abf5bf2df454/artifacts
+deleted_time: 1721148913553
+end_time: 1721148056195
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: e34e0e0e833044c783c4abf5bf2df454
+run_name: judicious-horse-1
+run_uuid: e34e0e0e833044c783c4abf5bf2df454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148055469
+status: 3
+tags: []
+user_id: himan

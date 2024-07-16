@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/839118b479124538b811638b5bbd8a9b/artifacts
+deleted_time: 1721149478685
+end_time: 1721149432211
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 839118b479124538b811638b5bbd8a9b
+run_name: funny-sow-557
+run_uuid: 839118b479124538b811638b5bbd8a9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149431590
+status: 3
+tags: []
+user_id: himan

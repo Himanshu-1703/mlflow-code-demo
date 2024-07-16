@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/009289f471524221a076d02e9b9a97b0/artifacts
+deleted_time: 1721149478685
+end_time: 1721149228956
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 009289f471524221a076d02e9b9a97b0
+run_name: thundering-hawk-34
+run_uuid: 009289f471524221a076d02e9b9a97b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149228542
+status: 3
+tags: []
+user_id: himan

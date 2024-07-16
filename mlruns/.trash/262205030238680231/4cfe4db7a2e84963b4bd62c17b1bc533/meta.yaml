@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/4cfe4db7a2e84963b4bd62c17b1bc533/artifacts
+deleted_time: 1721139922118
+end_time: 1721139501343
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: 4cfe4db7a2e84963b4bd62c17b1bc533
+run_name: grandiose-colt-792
+run_uuid: 4cfe4db7a2e84963b4bd62c17b1bc533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139501097
+status: 3
+tags: []
+user_id: himan

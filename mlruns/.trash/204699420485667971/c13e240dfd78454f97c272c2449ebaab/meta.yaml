@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/c13e240dfd78454f97c272c2449ebaab/artifacts
+deleted_time: 1721149478685
+end_time: 1721149232372
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: c13e240dfd78454f97c272c2449ebaab
+run_name: caring-lark-810
+run_uuid: c13e240dfd78454f97c272c2449ebaab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149231644
+status: 3
+tags: []
+user_id: himan

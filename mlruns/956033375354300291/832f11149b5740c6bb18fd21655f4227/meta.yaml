@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/832f11149b5740c6bb18fd21655f4227/artifacts
+end_time: 1721149524001
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 832f11149b5740c6bb18fd21655f4227
+run_name: nimble-dove-252
+run_uuid: 832f11149b5740c6bb18fd21655f4227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149523291
+status: 3
+tags: []
+user_id: himan

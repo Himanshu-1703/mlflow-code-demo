@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/a96f8d7bf8e64374b94c05f3990fc2d5/artifacts
+deleted_time: 1721148913553
+end_time: 1721148059740
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: a96f8d7bf8e64374b94c05f3990fc2d5
+run_name: rogue-fawn-847
+run_uuid: a96f8d7bf8e64374b94c05f3990fc2d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148058366
+status: 3
+tags: []
+user_id: himan

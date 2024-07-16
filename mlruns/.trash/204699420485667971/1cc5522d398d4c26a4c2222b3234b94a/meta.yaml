@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/1cc5522d398d4c26a4c2222b3234b94a/artifacts
+deleted_time: 1721149478685
+end_time: 1721149407801
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 1cc5522d398d4c26a4c2222b3234b94a
+run_name: righteous-mink-201
+run_uuid: 1cc5522d398d4c26a4c2222b3234b94a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149407059
+status: 3
+tags: []
+user_id: himan

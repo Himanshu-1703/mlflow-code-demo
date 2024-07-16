@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/8e81f6fb78f54867901328044e13b152/artifacts
+end_time: 1721149531191
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 8e81f6fb78f54867901328044e13b152
+run_name: honorable-dog-500
+run_uuid: 8e81f6fb78f54867901328044e13b152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149530475
+status: 3
+tags: []
+user_id: himan

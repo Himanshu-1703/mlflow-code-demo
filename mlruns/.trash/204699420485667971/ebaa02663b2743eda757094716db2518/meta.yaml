@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/ebaa02663b2743eda757094716db2518/artifacts
+deleted_time: 1721149478685
+end_time: 1721149430606
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: ebaa02663b2743eda757094716db2518
+run_name: bright-cod-364
+run_uuid: ebaa02663b2743eda757094716db2518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149429465
+status: 3
+tags: []
+user_id: himan

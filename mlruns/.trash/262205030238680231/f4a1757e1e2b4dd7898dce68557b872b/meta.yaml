@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/f4a1757e1e2b4dd7898dce68557b872b/artifacts
+deleted_time: 1721139922118
+end_time: 1721139309742
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: f4a1757e1e2b4dd7898dce68557b872b
+run_name: peaceful-stoat-659
+run_uuid: f4a1757e1e2b4dd7898dce68557b872b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139309346
+status: 3
+tags: []
+user_id: himan

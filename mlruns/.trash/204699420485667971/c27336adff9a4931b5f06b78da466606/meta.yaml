@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/c27336adff9a4931b5f06b78da466606/artifacts
+deleted_time: 1721149478685
+end_time: 1721149421726
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: c27336adff9a4931b5f06b78da466606
+run_name: sedate-gnu-931
+run_uuid: c27336adff9a4931b5f06b78da466606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149421103
+status: 3
+tags: []
+user_id: himan

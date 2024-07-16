@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/3de2f26f0c9441f49263a0f27531692b/artifacts
+deleted_time: 1721148913553
+end_time: 1721148102520
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 3de2f26f0c9441f49263a0f27531692b
+run_name: zealous-panda-622
+run_uuid: 3de2f26f0c9441f49263a0f27531692b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148101535
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/986cd07ddfa34266be35aba16a9b6942/artifacts
+deleted_time: 1721149478685
+end_time: 1721149397251
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 986cd07ddfa34266be35aba16a9b6942
+run_name: gifted-sow-108
+run_uuid: 986cd07ddfa34266be35aba16a9b6942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149396815
+status: 3
+tags: []
+user_id: himan

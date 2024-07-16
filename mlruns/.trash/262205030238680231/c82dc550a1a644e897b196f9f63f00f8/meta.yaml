@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/c82dc550a1a644e897b196f9f63f00f8/artifacts
+deleted_time: 1721139922118
+end_time: 1721139079141
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: c82dc550a1a644e897b196f9f63f00f8
+run_name: mysterious-bird-97
+run_uuid: c82dc550a1a644e897b196f9f63f00f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139078642
+status: 3
+tags: []
+user_id: himan

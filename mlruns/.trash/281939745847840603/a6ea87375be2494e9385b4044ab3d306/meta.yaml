@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/a6ea87375be2494e9385b4044ab3d306/artifacts
+deleted_time: 1721148913553
+end_time: 1721148057391
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: a6ea87375be2494e9385b4044ab3d306
+run_name: whimsical-smelt-630
+run_uuid: a6ea87375be2494e9385b4044ab3d306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148056266
+status: 3
+tags: []
+user_id: himan

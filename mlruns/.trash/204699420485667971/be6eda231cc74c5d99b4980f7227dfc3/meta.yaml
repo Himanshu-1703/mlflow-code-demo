@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/be6eda231cc74c5d99b4980f7227dfc3/artifacts
+deleted_time: 1721149478685
+end_time: 1721149343552
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: be6eda231cc74c5d99b4980f7227dfc3
+run_name: receptive-wasp-97
+run_uuid: be6eda231cc74c5d99b4980f7227dfc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149342446
+status: 3
+tags: []
+user_id: himan

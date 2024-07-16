@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/0fb606e206af47d4a68b2beb9b36c401/artifacts
+deleted_time: 1721148913553
+end_time: 1721148067197
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 0fb606e206af47d4a68b2beb9b36c401
+run_name: dazzling-mink-974
+run_uuid: 0fb606e206af47d4a68b2beb9b36c401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148066707
+status: 3
+tags: []
+user_id: himan

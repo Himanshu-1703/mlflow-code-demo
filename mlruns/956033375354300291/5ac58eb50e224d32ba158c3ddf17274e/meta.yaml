@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/5ac58eb50e224d32ba158c3ddf17274e/artifacts
+end_time: 1721149560220
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 5ac58eb50e224d32ba158c3ddf17274e
+run_name: carefree-tern-241
+run_uuid: 5ac58eb50e224d32ba158c3ddf17274e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149559420
+status: 3
+tags: []
+user_id: himan

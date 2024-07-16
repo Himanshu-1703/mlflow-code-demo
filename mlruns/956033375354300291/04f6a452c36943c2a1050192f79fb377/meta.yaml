@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/04f6a452c36943c2a1050192f79fb377/artifacts
+end_time: 1721149530400
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 04f6a452c36943c2a1050192f79fb377
+run_name: unleashed-shrew-892
+run_uuid: 04f6a452c36943c2a1050192f79fb377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149529900
+status: 3
+tags: []
+user_id: himan

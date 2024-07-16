@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/a0b7cda8b345419abb7a1d5fc8ffd907/artifacts
+deleted_time: 1721139922118
+end_time: 1721139489317
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: a0b7cda8b345419abb7a1d5fc8ffd907
+run_name: monumental-quail-532
+run_uuid: a0b7cda8b345419abb7a1d5fc8ffd907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139488723
+status: 3
+tags: []
+user_id: himan

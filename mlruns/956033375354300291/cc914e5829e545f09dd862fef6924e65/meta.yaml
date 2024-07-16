@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/cc914e5829e545f09dd862fef6924e65/artifacts
+end_time: 1721149522243
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: cc914e5829e545f09dd862fef6924e65
+run_name: gifted-foal-665
+run_uuid: cc914e5829e545f09dd862fef6924e65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149521715
+status: 3
+tags: []
+user_id: himan

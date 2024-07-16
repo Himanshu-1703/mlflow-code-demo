@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/2bc087f8fed443359645830322471a7c/artifacts
+deleted_time: 1721148913553
+end_time: 1721148063739
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 2bc087f8fed443359645830322471a7c
+run_name: casual-squirrel-667
+run_uuid: 2bc087f8fed443359645830322471a7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148063077
+status: 3
+tags: []
+user_id: himan

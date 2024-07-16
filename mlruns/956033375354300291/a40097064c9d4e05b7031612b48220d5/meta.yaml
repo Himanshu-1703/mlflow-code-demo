@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/a40097064c9d4e05b7031612b48220d5/artifacts
+end_time: 1721149537525
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: a40097064c9d4e05b7031612b48220d5
+run_name: learned-mink-258
+run_uuid: a40097064c9d4e05b7031612b48220d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149536895
+status: 3
+tags: []
+user_id: himan

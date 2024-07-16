@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/88c579b3c7164d81a4ecea8100b7b20c/artifacts
+deleted_time: 1721148913553
+end_time: 1721148062400
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 88c579b3c7164d81a4ecea8100b7b20c
+run_name: hilarious-doe-71
+run_uuid: 88c579b3c7164d81a4ecea8100b7b20c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148061648
+status: 3
+tags: []
+user_id: himan

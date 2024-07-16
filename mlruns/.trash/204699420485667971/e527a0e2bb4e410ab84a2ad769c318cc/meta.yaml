@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/e527a0e2bb4e410ab84a2ad769c318cc/artifacts
+deleted_time: 1721149478685
+end_time: 1721149211254
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: e527a0e2bb4e410ab84a2ad769c318cc
+run_name: shivering-turtle-691
+run_uuid: e527a0e2bb4e410ab84a2ad769c318cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149210753
+status: 3
+tags: []
+user_id: himan

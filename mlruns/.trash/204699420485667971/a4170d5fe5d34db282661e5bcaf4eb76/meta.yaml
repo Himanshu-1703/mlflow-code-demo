@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/a4170d5fe5d34db282661e5bcaf4eb76/artifacts
+deleted_time: 1721149478685
+end_time: 1721149400556
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: a4170d5fe5d34db282661e5bcaf4eb76
+run_name: spiffy-mink-9
+run_uuid: a4170d5fe5d34db282661e5bcaf4eb76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149399640
+status: 3
+tags: []
+user_id: himan

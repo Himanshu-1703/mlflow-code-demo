@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/cbff1e12cc1c44c7a905239c030f4ca2/artifacts
+end_time: 1721149526324
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: cbff1e12cc1c44c7a905239c030f4ca2
+run_name: traveling-worm-326
+run_uuid: cbff1e12cc1c44c7a905239c030f4ca2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149525865
+status: 3
+tags: []
+user_id: himan

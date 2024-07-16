@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/89055460b4454c3ca378055ad9cb72fc/artifacts
+deleted_time: 1721149478685
+end_time: 1721149349369
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 89055460b4454c3ca378055ad9cb72fc
+run_name: able-swan-140
+run_uuid: 89055460b4454c3ca378055ad9cb72fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149348585
+status: 3
+tags: []
+user_id: himan

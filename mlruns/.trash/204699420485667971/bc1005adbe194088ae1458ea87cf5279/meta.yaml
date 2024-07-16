@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/bc1005adbe194088ae1458ea87cf5279/artifacts
+deleted_time: 1721149478685
+end_time: 1721149312876
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: bc1005adbe194088ae1458ea87cf5279
+run_name: able-fawn-429
+run_uuid: bc1005adbe194088ae1458ea87cf5279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149312301
+status: 3
+tags: []
+user_id: himan

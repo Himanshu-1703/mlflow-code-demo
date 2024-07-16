@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/923174867434128611/98457e53d28e40d196c8f2816e7b2851/artifacts
+deleted_time: 1721148026233
+end_time: 1721147948541
+entry_point_name: ''
+experiment_id: '923174867434128611'
+lifecycle_stage: deleted
+run_id: 98457e53d28e40d196c8f2816e7b2851
+run_name: gifted-bird-125
+run_uuid: 98457e53d28e40d196c8f2816e7b2851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721147873836
+status: 3
+tags: []
+user_id: himan

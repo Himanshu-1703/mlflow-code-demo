@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/2ffd2f49d1f347618d041e5c3d0daa91/artifacts
+deleted_time: 1721139922118
+end_time: 1721139059839
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: 2ffd2f49d1f347618d041e5c3d0daa91
+run_name: legendary-squid-133
+run_uuid: 2ffd2f49d1f347618d041e5c3d0daa91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139059384
+status: 3
+tags: []
+user_id: himan

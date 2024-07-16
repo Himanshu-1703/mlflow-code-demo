@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/df4964901e2549ceb07443187c65d68e/artifacts
+deleted_time: 1721148913553
+end_time: 1721148094790
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: df4964901e2549ceb07443187c65d68e
+run_name: omniscient-crane-910
+run_uuid: df4964901e2549ceb07443187c65d68e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148094165
+status: 3
+tags: []
+user_id: himan

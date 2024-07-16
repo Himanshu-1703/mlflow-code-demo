@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/a039f10e6dea465fa9fbee35b975d2fc/artifacts
+deleted_time: 1721149478685
+end_time: 1721149224412
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: a039f10e6dea465fa9fbee35b975d2fc
+run_name: painted-crab-136
+run_uuid: a039f10e6dea465fa9fbee35b975d2fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149223905
+status: 3
+tags: []
+user_id: himan

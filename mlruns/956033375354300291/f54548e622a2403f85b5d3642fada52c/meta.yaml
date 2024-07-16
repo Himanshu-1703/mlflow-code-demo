@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/f54548e622a2403f85b5d3642fada52c/artifacts
+end_time: 1721149540930
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: f54548e622a2403f85b5d3642fada52c
+run_name: inquisitive-snipe-82
+run_uuid: f54548e622a2403f85b5d3642fada52c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149539970
+status: 3
+tags: []
+user_id: himan

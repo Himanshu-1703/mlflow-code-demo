@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/71fe38e4098f4d91b45af28b0a7b1cde/artifacts
+deleted_time: 1721148913553
+end_time: 1721148068408
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 71fe38e4098f4d91b45af28b0a7b1cde
+run_name: tasteful-seal-90
+run_uuid: 71fe38e4098f4d91b45af28b0a7b1cde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148067266
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/0c87bce6d52f43c192f7376f819db65a/artifacts
+deleted_time: 1721149478685
+end_time: 1721149201753
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 0c87bce6d52f43c192f7376f819db65a
+run_name: puzzled-carp-639
+run_uuid: 0c87bce6d52f43c192f7376f819db65a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149201099
+status: 3
+tags: []
+user_id: himan

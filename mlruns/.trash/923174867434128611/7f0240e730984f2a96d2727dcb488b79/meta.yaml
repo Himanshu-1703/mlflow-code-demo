@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/923174867434128611/7f0240e730984f2a96d2727dcb488b79/artifacts
+deleted_time: 1721148026233
+end_time: 1721147997174
+entry_point_name: ''
+experiment_id: '923174867434128611'
+lifecycle_stage: deleted
+run_id: 7f0240e730984f2a96d2727dcb488b79
+run_name: treasured-swan-962
+run_uuid: 7f0240e730984f2a96d2727dcb488b79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721147873487
+status: 4
+tags: []
+user_id: himan

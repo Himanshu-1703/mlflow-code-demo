@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/965a8c897b1c4961abff80916b616cec/artifacts
+end_time: 1721149552215
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 965a8c897b1c4961abff80916b616cec
+run_name: bustling-crab-806
+run_uuid: 965a8c897b1c4961abff80916b616cec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149551680
+status: 3
+tags: []
+user_id: himan

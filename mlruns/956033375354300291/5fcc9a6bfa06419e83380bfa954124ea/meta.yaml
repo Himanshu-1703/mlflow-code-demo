@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/5fcc9a6bfa06419e83380bfa954124ea/artifacts
+end_time: 1721149543370
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 5fcc9a6bfa06419e83380bfa954124ea
+run_name: auspicious-vole-739
+run_uuid: 5fcc9a6bfa06419e83380bfa954124ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149542430
+status: 3
+tags: []
+user_id: himan

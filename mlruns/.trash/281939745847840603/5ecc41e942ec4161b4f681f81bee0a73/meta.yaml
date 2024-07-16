@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/5ecc41e942ec4161b4f681f81bee0a73/artifacts
+deleted_time: 1721148913553
+end_time: 1721148097956
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 5ecc41e942ec4161b4f681f81bee0a73
+run_name: whimsical-mole-460
+run_uuid: 5ecc41e942ec4161b4f681f81bee0a73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148096932
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/ea3fb1c0ae584ac09bc424051adea770/artifacts
+end_time: 1721149550290
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: ea3fb1c0ae584ac09bc424051adea770
+run_name: kindly-crane-307
+run_uuid: ea3fb1c0ae584ac09bc424051adea770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149549705
+status: 3
+tags: []
+user_id: himan

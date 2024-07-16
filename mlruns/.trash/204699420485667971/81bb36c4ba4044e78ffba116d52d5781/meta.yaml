@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/81bb36c4ba4044e78ffba116d52d5781/artifacts
+deleted_time: 1721149478685
+end_time: 1721149198644
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 81bb36c4ba4044e78ffba116d52d5781
+run_name: blushing-quail-331
+run_uuid: 81bb36c4ba4044e78ffba116d52d5781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149198124
+status: 3
+tags: []
+user_id: himan

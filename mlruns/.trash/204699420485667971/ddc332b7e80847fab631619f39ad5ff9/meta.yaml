@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/ddc332b7e80847fab631619f39ad5ff9/artifacts
+deleted_time: 1721149478685
+end_time: 1721149171297
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: ddc332b7e80847fab631619f39ad5ff9
+run_name: skillful-kite-958
+run_uuid: ddc332b7e80847fab631619f39ad5ff9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149170356
+status: 3
+tags: []
+user_id: himan

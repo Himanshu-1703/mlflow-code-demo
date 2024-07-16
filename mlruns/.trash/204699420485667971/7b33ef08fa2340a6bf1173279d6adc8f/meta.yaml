@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/7b33ef08fa2340a6bf1173279d6adc8f/artifacts
+deleted_time: 1721149478685
+end_time: 1721149219512
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 7b33ef08fa2340a6bf1173279d6adc8f
+run_name: exultant-pig-125
+run_uuid: 7b33ef08fa2340a6bf1173279d6adc8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149218917
+status: 3
+tags: []
+user_id: himan

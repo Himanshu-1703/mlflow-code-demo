@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/dbaf9061277346b594f3e95dc3322ad9/artifacts
+deleted_time: 1721140444737
+end_time: 1721140303410
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: dbaf9061277346b594f3e95dc3322ad9
+run_name: brawny-lynx-810
+run_uuid: dbaf9061277346b594f3e95dc3322ad9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140302600
+status: 3
+tags: []
+user_id: himan

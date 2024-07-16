@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/b48958759ba94462ba947196db9799eb/artifacts
+deleted_time: 1721140444737
+end_time: 1721140325249
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: b48958759ba94462ba947196db9799eb
+run_name: unequaled-roo-438
+run_uuid: b48958759ba94462ba947196db9799eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140324618
+status: 3
+tags: []
+user_id: himan

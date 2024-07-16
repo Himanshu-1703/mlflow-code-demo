@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/0619b6f534f34a989b54bebe0078337b/artifacts
+deleted_time: 1721149478685
+end_time: 1721149208355
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 0619b6f534f34a989b54bebe0078337b
+run_name: caring-gull-528
+run_uuid: 0619b6f534f34a989b54bebe0078337b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149207845
+status: 3
+tags: []
+user_id: himan

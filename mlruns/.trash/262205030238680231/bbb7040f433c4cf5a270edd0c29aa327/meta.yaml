@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/bbb7040f433c4cf5a270edd0c29aa327/artifacts
+deleted_time: 1721139922118
+end_time: 1721139509107
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: bbb7040f433c4cf5a270edd0c29aa327
+run_name: salty-smelt-471
+run_uuid: bbb7040f433c4cf5a270edd0c29aa327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139482350
+status: 3
+tags: []
+user_id: himan

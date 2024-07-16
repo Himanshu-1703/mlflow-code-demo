@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/cf5f57123aa445c495634845d5901105/artifacts
+deleted_time: 1721149478685
+end_time: 1721149192572
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: cf5f57123aa445c495634845d5901105
+run_name: dazzling-duck-466
+run_uuid: cf5f57123aa445c495634845d5901105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149191842
+status: 3
+tags: []
+user_id: himan

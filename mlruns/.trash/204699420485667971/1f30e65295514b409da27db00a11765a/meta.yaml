@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/1f30e65295514b409da27db00a11765a/artifacts
+deleted_time: 1721149478685
+end_time: 1721149174062
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 1f30e65295514b409da27db00a11765a
+run_name: dashing-turtle-703
+run_uuid: 1f30e65295514b409da27db00a11765a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149173386
+status: 3
+tags: []
+user_id: himan

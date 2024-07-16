@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/ec8841e348c04cf2ae3e1bf33cd270ce/artifacts
+deleted_time: 1721140444737
+end_time: 1721140315941
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: ec8841e348c04cf2ae3e1bf33cd270ce
+run_name: nebulous-moth-451
+run_uuid: ec8841e348c04cf2ae3e1bf33cd270ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140315379
+status: 3
+tags: []
+user_id: himan

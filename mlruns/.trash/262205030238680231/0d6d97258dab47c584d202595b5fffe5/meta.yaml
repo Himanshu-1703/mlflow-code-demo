@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/0d6d97258dab47c584d202595b5fffe5/artifacts
+deleted_time: 1721139922118
+end_time: 1721139065476
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: 0d6d97258dab47c584d202595b5fffe5
+run_name: youthful-skunk-486
+run_uuid: 0d6d97258dab47c584d202595b5fffe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139064994
+status: 3
+tags: []
+user_id: himan

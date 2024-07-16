@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/e1697d9fe3b94a86920715e0ce3d9a0b/artifacts
+deleted_time: 1721149478685
+end_time: 1721149166642
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: e1697d9fe3b94a86920715e0ce3d9a0b
+run_name: smiling-wasp-609
+run_uuid: e1697d9fe3b94a86920715e0ce3d9a0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149166161
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/bf22590d4c7240db90c7bbbe33d481da/artifacts
+deleted_time: 1721139922118
+end_time: 1721139061091
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: bf22590d4c7240db90c7bbbe33d481da
+run_name: clumsy-kit-469
+run_uuid: bf22590d4c7240db90c7bbbe33d481da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139060758
+status: 3
+tags: []
+user_id: himan

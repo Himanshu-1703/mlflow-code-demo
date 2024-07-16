@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/d761c90eb6214945b789ca9c9443ad5c/artifacts
+deleted_time: 1721148913553
+end_time: 1721148089304
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: d761c90eb6214945b789ca9c9443ad5c
+run_name: receptive-pug-562
+run_uuid: d761c90eb6214945b789ca9c9443ad5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148088568
+status: 3
+tags: []
+user_id: himan

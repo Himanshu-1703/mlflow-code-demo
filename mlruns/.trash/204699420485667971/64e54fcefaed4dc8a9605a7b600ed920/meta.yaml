@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/64e54fcefaed4dc8a9605a7b600ed920/artifacts
+deleted_time: 1721149478685
+end_time: 1721149222597
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 64e54fcefaed4dc8a9605a7b600ed920
+run_name: polite-squid-749
+run_uuid: 64e54fcefaed4dc8a9605a7b600ed920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149221848
+status: 3
+tags: []
+user_id: himan

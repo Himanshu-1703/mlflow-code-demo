@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/597ce15cde264605aff5171299d76e69/artifacts
+deleted_time: 1721149478685
+end_time: 1721149333386
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 597ce15cde264605aff5171299d76e69
+run_name: bemused-slug-97
+run_uuid: 597ce15cde264605aff5171299d76e69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149332216
+status: 3
+tags: []
+user_id: himan

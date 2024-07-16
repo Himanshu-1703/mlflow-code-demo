@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/4f6f4a09f5e34d35973fdaea3a9ca6f7/artifacts
+deleted_time: 1721140444737
+end_time: 1721140309424
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: 4f6f4a09f5e34d35973fdaea3a9ca6f7
+run_name: sedate-shark-786
+run_uuid: 4f6f4a09f5e34d35973fdaea3a9ca6f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140308433
+status: 3
+tags: []
+user_id: himan

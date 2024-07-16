@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/ee70533554b24e21820a7959bdda321f/artifacts
+deleted_time: 1721139922118
+end_time: 1721139486259
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: ee70533554b24e21820a7959bdda321f
+run_name: painted-frog-38
+run_uuid: ee70533554b24e21820a7959bdda321f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139485800
+status: 3
+tags: []
+user_id: himan

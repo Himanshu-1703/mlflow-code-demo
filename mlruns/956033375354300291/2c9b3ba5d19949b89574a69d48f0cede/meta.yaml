@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/2c9b3ba5d19949b89574a69d48f0cede/artifacts
+end_time: 1721149544595
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 2c9b3ba5d19949b89574a69d48f0cede
+run_name: rare-jay-137
+run_uuid: 2c9b3ba5d19949b89574a69d48f0cede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149544203
+status: 3
+tags: []
+user_id: himan

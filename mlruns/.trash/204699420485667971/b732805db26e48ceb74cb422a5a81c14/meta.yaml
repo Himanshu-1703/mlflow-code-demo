@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/b732805db26e48ceb74cb422a5a81c14/artifacts
+deleted_time: 1721149478685
+end_time: 1721149355151
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: b732805db26e48ceb74cb422a5a81c14
+run_name: resilient-panda-122
+run_uuid: b732805db26e48ceb74cb422a5a81c14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149354370
+status: 3
+tags: []
+user_id: himan

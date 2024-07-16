@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/d90323f4544e42b8925fdebac646d558/artifacts
+deleted_time: 1721149478685
+end_time: 1721149183833
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: d90323f4544e42b8925fdebac646d558
+run_name: burly-auk-458
+run_uuid: d90323f4544e42b8925fdebac646d558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149182899
+status: 3
+tags: []
+user_id: himan

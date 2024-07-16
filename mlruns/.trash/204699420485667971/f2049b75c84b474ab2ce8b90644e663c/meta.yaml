@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/f2049b75c84b474ab2ce8b90644e663c/artifacts
+deleted_time: 1721149478685
+end_time: 1721149195962
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: f2049b75c84b474ab2ce8b90644e663c
+run_name: righteous-ape-925
+run_uuid: f2049b75c84b474ab2ce8b90644e663c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149195512
+status: 3
+tags: []
+user_id: himan

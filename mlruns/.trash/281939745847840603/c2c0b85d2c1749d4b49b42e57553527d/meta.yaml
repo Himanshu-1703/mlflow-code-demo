@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/c2c0b85d2c1749d4b49b42e57553527d/artifacts
+deleted_time: 1721148913553
+end_time: 1721148077824
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: c2c0b85d2c1749d4b49b42e57553527d
+run_name: resilient-foal-194
+run_uuid: c2c0b85d2c1749d4b49b42e57553527d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148076808
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/ac4b3821612e4e1485b763a25dcecdb8/artifacts
+deleted_time: 1721140444737
+end_time: 1721140328731
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: ac4b3821612e4e1485b763a25dcecdb8
+run_name: bright-shrike-351
+run_uuid: ac4b3821612e4e1485b763a25dcecdb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140327832
+status: 3
+tags: []
+user_id: himan

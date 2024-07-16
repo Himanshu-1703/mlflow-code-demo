@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/e07de82f587d4e7c8b095878d846dc5b/artifacts
+deleted_time: 1721140444737
+end_time: 1721140317579
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: e07de82f587d4e7c8b095878d846dc5b
+run_name: gentle-gull-857
+run_uuid: e07de82f587d4e7c8b095878d846dc5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140316949
+status: 3
+tags: []
+user_id: himan

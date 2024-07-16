@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/437449048752048244/ee61d1cbf3d444dd8621149582c75f1a/artifacts
+deleted_time: 1721149482955
+end_time: 1721145738173
+entry_point_name: ''
+experiment_id: '437449048752048244'
+lifecycle_stage: deleted
+run_id: ee61d1cbf3d444dd8621149582c75f1a
+run_name: mysterious-deer-58
+run_uuid: ee61d1cbf3d444dd8621149582c75f1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721145534357
+status: 3
+tags: []
+user_id: himan

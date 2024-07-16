@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/8d395bd0064b44b6a616d232c090fc68/artifacts
+deleted_time: 1721140444737
+end_time: 1721140322759
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: 8d395bd0064b44b6a616d232c090fc68
+run_name: enchanting-midge-981
+run_uuid: 8d395bd0064b44b6a616d232c090fc68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140322098
+status: 3
+tags: []
+user_id: himan

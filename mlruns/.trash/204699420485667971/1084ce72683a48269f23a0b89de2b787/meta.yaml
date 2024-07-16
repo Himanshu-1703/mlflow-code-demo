@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/1084ce72683a48269f23a0b89de2b787/artifacts
+deleted_time: 1721149478685
+end_time: 1721149181634
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 1084ce72683a48269f23a0b89de2b787
+run_name: sassy-wolf-675
+run_uuid: 1084ce72683a48269f23a0b89de2b787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149180989
+status: 3
+tags: []
+user_id: himan

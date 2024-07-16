@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/bfebb55e3ee84523bde82c2109835b80/artifacts
+deleted_time: 1721139922118
+end_time: 1721139325972
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: bfebb55e3ee84523bde82c2109835b80
+run_name: skittish-wasp-742
+run_uuid: bfebb55e3ee84523bde82c2109835b80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139325437
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/c0aa0da75e264d8daafa184c019673cb/artifacts
+deleted_time: 1721149478685
+end_time: 1721149174552
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: c0aa0da75e264d8daafa184c019673cb
+run_name: bittersweet-cod-715
+run_uuid: c0aa0da75e264d8daafa184c019673cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149174116
+status: 3
+tags: []
+user_id: himan

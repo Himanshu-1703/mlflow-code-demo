@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/346ce5205a8041ceb5b4513fceed1740/artifacts
+deleted_time: 1721140444737
+end_time: 1721140311091
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: 346ce5205a8041ceb5b4513fceed1740
+run_name: bemused-boar-798
+run_uuid: 346ce5205a8041ceb5b4513fceed1740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140310038
+status: 3
+tags: []
+user_id: himan

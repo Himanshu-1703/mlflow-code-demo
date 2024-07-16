@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/9ac0a20e21c544829c2660d15311cc73/artifacts
+deleted_time: 1721148913553
+end_time: 1721148087103
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 9ac0a20e21c544829c2660d15311cc73
+run_name: magnificent-mare-404
+run_uuid: 9ac0a20e21c544829c2660d15311cc73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148086382
+status: 3
+tags: []
+user_id: himan

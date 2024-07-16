@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/d70070178fdc43038ef18f8573375af2/artifacts
+deleted_time: 1721139922118
+end_time: 1721139301653
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: d70070178fdc43038ef18f8573375af2
+run_name: welcoming-sow-296
+run_uuid: d70070178fdc43038ef18f8573375af2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139301239
+status: 3
+tags: []
+user_id: himan

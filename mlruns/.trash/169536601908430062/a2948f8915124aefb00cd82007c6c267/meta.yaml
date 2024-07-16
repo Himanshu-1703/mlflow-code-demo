@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/a2948f8915124aefb00cd82007c6c267/artifacts
+deleted_time: 1721140444737
+end_time: 1721140319350
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: a2948f8915124aefb00cd82007c6c267
+run_name: stately-eel-264
+run_uuid: a2948f8915124aefb00cd82007c6c267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140318624
+status: 3
+tags: []
+user_id: himan

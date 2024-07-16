@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/712b1667fd9b43bdad96194e44329397/artifacts
+deleted_time: 1721149478685
+end_time: 1721149201017
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 712b1667fd9b43bdad96194e44329397
+run_name: unruly-shoat-942
+run_uuid: 712b1667fd9b43bdad96194e44329397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149200673
+status: 3
+tags: []
+user_id: himan

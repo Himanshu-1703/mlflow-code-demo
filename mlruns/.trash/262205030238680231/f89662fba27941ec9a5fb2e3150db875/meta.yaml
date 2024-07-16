@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/f89662fba27941ec9a5fb2e3150db875/artifacts
+deleted_time: 1721139922118
+end_time: 1721139493180
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: f89662fba27941ec9a5fb2e3150db875
+run_name: unleashed-auk-609
+run_uuid: f89662fba27941ec9a5fb2e3150db875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139492472
+status: 3
+tags: []
+user_id: himan

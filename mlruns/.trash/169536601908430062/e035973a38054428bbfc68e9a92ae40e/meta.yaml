@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/e035973a38054428bbfc68e9a92ae40e/artifacts
+deleted_time: 1721140444737
+end_time: 1721140321177
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: e035973a38054428bbfc68e9a92ae40e
+run_name: resilient-gnat-375
+run_uuid: e035973a38054428bbfc68e9a92ae40e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140320144
+status: 3
+tags: []
+user_id: himan

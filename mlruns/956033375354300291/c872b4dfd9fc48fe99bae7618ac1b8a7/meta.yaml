@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/c872b4dfd9fc48fe99bae7618ac1b8a7/artifacts
+end_time: 1721149532985
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: c872b4dfd9fc48fe99bae7618ac1b8a7
+run_name: likeable-dove-308
+run_uuid: c872b4dfd9fc48fe99bae7618ac1b8a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149531932
+status: 3
+tags: []
+user_id: himan

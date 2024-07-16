@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/01a88bdec0024005990f155c06374191/artifacts
+deleted_time: 1721149478685
+end_time: 1721149215692
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 01a88bdec0024005990f155c06374191
+run_name: aged-cod-643
+run_uuid: 01a88bdec0024005990f155c06374191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149215162
+status: 3
+tags: []
+user_id: himan

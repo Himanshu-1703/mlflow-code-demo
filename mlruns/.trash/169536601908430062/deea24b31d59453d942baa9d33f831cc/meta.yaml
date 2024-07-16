@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/deea24b31d59453d942baa9d33f831cc/artifacts
+deleted_time: 1721140444737
+end_time: 1721140315293
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: deea24b31d59453d942baa9d33f831cc
+run_name: gregarious-ram-962
+run_uuid: deea24b31d59453d942baa9d33f831cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140314591
+status: 3
+tags: []
+user_id: himan

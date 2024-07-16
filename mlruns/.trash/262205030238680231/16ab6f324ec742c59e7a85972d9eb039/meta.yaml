@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/16ab6f324ec742c59e7a85972d9eb039/artifacts
+deleted_time: 1721139922118
+end_time: 1721139082592
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: 16ab6f324ec742c59e7a85972d9eb039
+run_name: traveling-skunk-358
+run_uuid: 16ab6f324ec742c59e7a85972d9eb039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139082072
+status: 3
+tags: []
+user_id: himan

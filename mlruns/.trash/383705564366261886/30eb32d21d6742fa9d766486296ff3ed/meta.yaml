@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/383705564366261886/30eb32d21d6742fa9d766486296ff3ed/artifacts
+deleted_time: 1721139927403
+end_time: 1721137709045
+entry_point_name: ''
+experiment_id: '383705564366261886'
+lifecycle_stage: deleted
+run_id: 30eb32d21d6742fa9d766486296ff3ed
+run_name: fun-shark-627
+run_uuid: 30eb32d21d6742fa9d766486296ff3ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721137631280
+status: 3
+tags: []
+user_id: himan

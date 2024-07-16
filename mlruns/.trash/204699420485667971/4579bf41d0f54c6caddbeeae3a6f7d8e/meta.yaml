@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/4579bf41d0f54c6caddbeeae3a6f7d8e/artifacts
+deleted_time: 1721149478685
+end_time: 1721149235147
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 4579bf41d0f54c6caddbeeae3a6f7d8e
+run_name: chill-foal-389
+run_uuid: 4579bf41d0f54c6caddbeeae3a6f7d8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149234147
+status: 3
+tags: []
+user_id: himan

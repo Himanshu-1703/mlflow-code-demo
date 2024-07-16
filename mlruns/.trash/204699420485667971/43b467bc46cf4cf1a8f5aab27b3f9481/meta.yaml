@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/43b467bc46cf4cf1a8f5aab27b3f9481/artifacts
+deleted_time: 1721149478685
+end_time: 1721149220502
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 43b467bc46cf4cf1a8f5aab27b3f9481
+run_name: bouncy-gnat-425
+run_uuid: 43b467bc46cf4cf1a8f5aab27b3f9481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149219604
+status: 3
+tags: []
+user_id: himan

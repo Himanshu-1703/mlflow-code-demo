@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/93a75242c29744419ef95fa19ca4e5e0/artifacts
+end_time: 1721149529817
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 93a75242c29744419ef95fa19ca4e5e0
+run_name: useful-ray-167
+run_uuid: 93a75242c29744419ef95fa19ca4e5e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149528710
+status: 3
+tags: []
+user_id: himan

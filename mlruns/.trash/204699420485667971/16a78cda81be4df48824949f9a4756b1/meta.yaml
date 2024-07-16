@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/16a78cda81be4df48824949f9a4756b1/artifacts
+deleted_time: 1721149478685
+end_time: 1721149180898
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 16a78cda81be4df48824949f9a4756b1
+run_name: colorful-stork-483
+run_uuid: 16a78cda81be4df48824949f9a4756b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149180204
+status: 3
+tags: []
+user_id: himan

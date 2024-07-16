@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/1400acad2fbb4b49a1bbaf607c385c12/artifacts
+deleted_time: 1721149478685
+end_time: 1721149313705
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 1400acad2fbb4b49a1bbaf607c385c12
+run_name: whimsical-loon-820
+run_uuid: 1400acad2fbb4b49a1bbaf607c385c12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149312965
+status: 3
+tags: []
+user_id: himan

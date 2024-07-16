@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/b1f3fc0e6d224e5bba1f829d2f1538a2/artifacts
+end_time: 1721149560264
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: b1f3fc0e6d224e5bba1f829d2f1538a2
+run_name: Main Run
+run_uuid: b1f3fc0e6d224e5bba1f829d2f1538a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149520629
+status: 3
+tags: []
+user_id: himan

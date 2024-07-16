@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/b1a0dcb103174bd693e09fe25e203180/artifacts
+deleted_time: 1721149478685
+end_time: 1721149210142
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: b1a0dcb103174bd693e09fe25e203180
+run_name: mercurial-squid-74
+run_uuid: b1a0dcb103174bd693e09fe25e203180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149209790
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/cb511489b26443728c23d985a87e0533/artifacts
+deleted_time: 1721140444737
+end_time: 1721140333282
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: cb511489b26443728c23d985a87e0533
+run_name: valuable-fox-444
+run_uuid: cb511489b26443728c23d985a87e0533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140332170
+status: 3
+tags: []
+user_id: himan

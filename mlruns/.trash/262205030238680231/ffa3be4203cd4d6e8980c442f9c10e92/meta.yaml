@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/ffa3be4203cd4d6e8980c442f9c10e92/artifacts
+deleted_time: 1721139922118
+end_time: 1721139308979
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: ffa3be4203cd4d6e8980c442f9c10e92
+run_name: bemused-shrike-497
+run_uuid: ffa3be4203cd4d6e8980c442f9c10e92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139308521
+status: 3
+tags: []
+user_id: himan

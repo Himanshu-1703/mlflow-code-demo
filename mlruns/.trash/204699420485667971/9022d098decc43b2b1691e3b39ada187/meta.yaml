@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/9022d098decc43b2b1691e3b39ada187/artifacts
+deleted_time: 1721149478685
+end_time: 1721149225580
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 9022d098decc43b2b1691e3b39ada187
+run_name: beautiful-trout-167
+run_uuid: 9022d098decc43b2b1691e3b39ada187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149225012
+status: 3
+tags: []
+user_id: himan

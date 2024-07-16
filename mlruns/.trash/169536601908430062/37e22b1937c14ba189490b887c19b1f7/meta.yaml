@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/37e22b1937c14ba189490b887c19b1f7/artifacts
+deleted_time: 1721140444737
+end_time: 1721140304412
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: 37e22b1937c14ba189490b887c19b1f7
+run_name: gentle-slug-183
+run_uuid: 37e22b1937c14ba189490b887c19b1f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140303472
+status: 3
+tags: []
+user_id: himan

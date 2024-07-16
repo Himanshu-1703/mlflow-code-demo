@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/07e291b5175547ff813fec0f19285db9/artifacts
+deleted_time: 1721140444737
+end_time: 1721140306177
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: 07e291b5175547ff813fec0f19285db9
+run_name: incongruous-kite-870
+run_uuid: 07e291b5175547ff813fec0f19285db9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140305650
+status: 3
+tags: []
+user_id: himan

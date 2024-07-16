@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/23c04488a39249609820ae17305df1ed/artifacts
+deleted_time: 1721149478685
+end_time: 1721149228436
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 23c04488a39249609820ae17305df1ed
+run_name: efficient-conch-101
+run_uuid: 23c04488a39249609820ae17305df1ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149228049
+status: 3
+tags: []
+user_id: himan

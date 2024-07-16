@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/95bc004b53f540da9c026bd67dee2847/artifacts
+deleted_time: 1721140444737
+end_time: 1721140318552
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: 95bc004b53f540da9c026bd67dee2847
+run_name: righteous-shark-842
+run_uuid: 95bc004b53f540da9c026bd67dee2847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140317654
+status: 3
+tags: []
+user_id: himan

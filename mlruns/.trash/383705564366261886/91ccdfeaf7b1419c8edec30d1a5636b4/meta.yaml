@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/383705564366261886/91ccdfeaf7b1419c8edec30d1a5636b4/artifacts
+deleted_time: 1721139927403
+end_time: 1721137101578
+entry_point_name: ''
+experiment_id: '383705564366261886'
+lifecycle_stage: deleted
+run_id: 91ccdfeaf7b1419c8edec30d1a5636b4
+run_name: resilient-sow-378
+run_uuid: 91ccdfeaf7b1419c8edec30d1a5636b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721136959818
+status: 3
+tags: []
+user_id: himan

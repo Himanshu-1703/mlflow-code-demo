@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/2405df9d7cba440da4560fa8edbb1217/artifacts
+end_time: 1721149539895
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 2405df9d7cba440da4560fa8edbb1217
+run_name: indecisive-ram-915
+run_uuid: 2405df9d7cba440da4560fa8edbb1217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149539449
+status: 3
+tags: []
+user_id: himan

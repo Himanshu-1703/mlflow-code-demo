@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/80e221951bd34899b78349ced9430e3d/artifacts
+deleted_time: 1721139922118
+end_time: 1721139059322
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: 80e221951bd34899b78349ced9430e3d
+run_name: resilient-frog-551
+run_uuid: 80e221951bd34899b78349ced9430e3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139059025
+status: 3
+tags: []
+user_id: himan

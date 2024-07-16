@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/4c0f8874f3ba46bb8285cb256847859d/artifacts
+deleted_time: 1721140444737
+end_time: 1721140087450
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: 4c0f8874f3ba46bb8285cb256847859d
+run_name: polite-vole-744
+run_uuid: 4c0f8874f3ba46bb8285cb256847859d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140086830
+status: 4
+tags: []
+user_id: himan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/9b90b6d5355b45a7b3f4b40d8e379838/artifacts
+end_time: 1721149549625
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 9b90b6d5355b45a7b3f4b40d8e379838
+run_name: abrasive-horse-642
+run_uuid: 9b90b6d5355b45a7b3f4b40d8e379838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149549260
+status: 3
+tags: []
+user_id: himan

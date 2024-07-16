@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/4ff5e7e1c26644288bc44998f69089ed/artifacts
+deleted_time: 1721140444737
+end_time: 1721140307702
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: 4ff5e7e1c26644288bc44998f69089ed
+run_name: enchanting-finch-645
+run_uuid: 4ff5e7e1c26644288bc44998f69089ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140307188
+status: 3
+tags: []
+user_id: himan

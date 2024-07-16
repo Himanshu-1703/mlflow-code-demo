@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/cbb2e5b971e941008865e3cda40f1750/artifacts
+end_time: 1721149525130
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: cbb2e5b971e941008865e3cda40f1750
+run_name: nimble-elk-988
+run_uuid: cbb2e5b971e941008865e3cda40f1750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149524051
+status: 3
+tags: []
+user_id: himan

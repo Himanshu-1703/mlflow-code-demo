@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/1980534bbf4d4db08ee2259d077e6a6a/artifacts
+end_time: 1721149533590
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 1980534bbf4d4db08ee2259d077e6a6a
+run_name: intelligent-jay-661
+run_uuid: 1980534bbf4d4db08ee2259d077e6a6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149533050
+status: 3
+tags: []
+user_id: himan

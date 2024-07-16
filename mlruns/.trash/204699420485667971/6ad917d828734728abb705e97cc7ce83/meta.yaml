@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/6ad917d828734728abb705e97cc7ce83/artifacts
+deleted_time: 1721149478685
+end_time: 1721149401170
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 6ad917d828734728abb705e97cc7ce83
+run_name: big-horse-67
+run_uuid: 6ad917d828734728abb705e97cc7ce83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149400617
+status: 3
+tags: []
+user_id: himan

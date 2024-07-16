@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/8b64a706b4104aa3b492321dd1a18de1/artifacts
+deleted_time: 1721148913553
+end_time: 1721148058307
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 8b64a706b4104aa3b492321dd1a18de1
+run_name: hilarious-hawk-152
+run_uuid: 8b64a706b4104aa3b492321dd1a18de1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148057471
+status: 3
+tags: []
+user_id: himan

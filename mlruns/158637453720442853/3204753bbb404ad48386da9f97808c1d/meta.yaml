@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/158637453720442853/3204753bbb404ad48386da9f97808c1d/artifacts
+end_time: 1721149747654
+entry_point_name: ''
+experiment_id: '158637453720442853'
+lifecycle_stage: active
+run_id: 3204753bbb404ad48386da9f97808c1d
+run_name: defiant-boar-597
+run_uuid: 3204753bbb404ad48386da9f97808c1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149656503
+status: 3
+tags: []
+user_id: himan

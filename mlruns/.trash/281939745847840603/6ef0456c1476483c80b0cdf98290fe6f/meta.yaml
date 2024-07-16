@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/6ef0456c1476483c80b0cdf98290fe6f/artifacts
+deleted_time: 1721148913553
+end_time: 1721148086301
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 6ef0456c1476483c80b0cdf98290fe6f
+run_name: delicate-hog-752
+run_uuid: 6ef0456c1476483c80b0cdf98290fe6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148084507
+status: 3
+tags: []
+user_id: himan

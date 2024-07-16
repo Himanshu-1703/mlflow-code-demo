@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/ef9e5aa7811645c49d12d808ff3e4096/artifacts
+deleted_time: 1721140444737
+end_time: 1721140332056
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: ef9e5aa7811645c49d12d808ff3e4096
+run_name: masked-fly-770
+run_uuid: ef9e5aa7811645c49d12d808ff3e4096
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140331302
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/5849c092e6c64b749c20aaa453323962/artifacts
+deleted_time: 1721149478685
+end_time: 1721149314366
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 5849c092e6c64b749c20aaa453323962
+run_name: nosy-wren-211
+run_uuid: 5849c092e6c64b749c20aaa453323962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149313761
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/419c3c1c9568466a8a3338755d0dd8fc/artifacts
+deleted_time: 1721148913553
+end_time: 1721148099501
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 419c3c1c9568466a8a3338755d0dd8fc
+run_name: skittish-bird-452
+run_uuid: 419c3c1c9568466a8a3338755d0dd8fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148099012
+status: 3
+tags: []
+user_id: himan

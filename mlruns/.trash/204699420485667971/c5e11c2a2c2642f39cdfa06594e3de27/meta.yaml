@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/c5e11c2a2c2642f39cdfa06594e3de27/artifacts
+deleted_time: 1721149478685
+end_time: 1721149402476
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: c5e11c2a2c2642f39cdfa06594e3de27
+run_name: aged-shrike-288
+run_uuid: c5e11c2a2c2642f39cdfa06594e3de27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149402014
+status: 3
+tags: []
+user_id: himan

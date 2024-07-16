@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/e20d5ca978af4105b7d95b64ff123e50/artifacts
+deleted_time: 1721149478685
+end_time: 1721149338171
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: e20d5ca978af4105b7d95b64ff123e50
+run_name: ambitious-pig-937
+run_uuid: e20d5ca978af4105b7d95b64ff123e50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149337247
+status: 3
+tags: []
+user_id: himan

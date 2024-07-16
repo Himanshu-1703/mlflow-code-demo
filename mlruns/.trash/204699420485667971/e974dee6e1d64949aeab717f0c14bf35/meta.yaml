@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/e974dee6e1d64949aeab717f0c14bf35/artifacts
+deleted_time: 1721149478685
+end_time: 1721149347235
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: e974dee6e1d64949aeab717f0c14bf35
+run_name: stately-toad-87
+run_uuid: e974dee6e1d64949aeab717f0c14bf35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149346436
+status: 3
+tags: []
+user_id: himan

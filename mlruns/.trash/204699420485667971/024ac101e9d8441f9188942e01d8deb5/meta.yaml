@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/024ac101e9d8441f9188942e01d8deb5/artifacts
+deleted_time: 1721149478685
+end_time: 1721149354246
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 024ac101e9d8441f9188942e01d8deb5
+run_name: shivering-bird-512
+run_uuid: 024ac101e9d8441f9188942e01d8deb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149353446
+status: 3
+tags: []
+user_id: himan

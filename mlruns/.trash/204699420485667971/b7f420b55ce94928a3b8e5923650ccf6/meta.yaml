@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/b7f420b55ce94928a3b8e5923650ccf6/artifacts
+deleted_time: 1721149478685
+end_time: 1721149391380
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: b7f420b55ce94928a3b8e5923650ccf6
+run_name: tasteful-lark-281
+run_uuid: b7f420b55ce94928a3b8e5923650ccf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149390471
+status: 3
+tags: []
+user_id: himan

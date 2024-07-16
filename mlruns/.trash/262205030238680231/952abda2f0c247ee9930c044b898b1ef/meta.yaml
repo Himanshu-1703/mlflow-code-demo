@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/952abda2f0c247ee9930c044b898b1ef/artifacts
+deleted_time: 1721139922118
+end_time: 1721139064950
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: 952abda2f0c247ee9930c044b898b1ef
+run_name: sincere-flea-256
+run_uuid: 952abda2f0c247ee9930c044b898b1ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139064561
+status: 3
+tags: []
+user_id: himan

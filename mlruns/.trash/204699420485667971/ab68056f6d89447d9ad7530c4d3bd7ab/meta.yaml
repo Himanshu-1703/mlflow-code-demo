@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/ab68056f6d89447d9ad7530c4d3bd7ab/artifacts
+deleted_time: 1721149478685
+end_time: 1721149224926
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: ab68056f6d89447d9ad7530c4d3bd7ab
+run_name: nosy-shoat-167
+run_uuid: ab68056f6d89447d9ad7530c4d3bd7ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149224512
+status: 3
+tags: []
+user_id: himan

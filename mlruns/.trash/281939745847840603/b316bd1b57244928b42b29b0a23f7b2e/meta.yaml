@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/b316bd1b57244928b42b29b0a23f7b2e/artifacts
+deleted_time: 1721148913553
+end_time: 1721148073966
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: b316bd1b57244928b42b29b0a23f7b2e
+run_name: awesome-sow-323
+run_uuid: b316bd1b57244928b42b29b0a23f7b2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148073160
+status: 3
+tags: []
+user_id: himan

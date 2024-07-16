@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/437449048752048244/3ce47d9118bb4819b75d8dc7ddf76d56/artifacts
+deleted_time: 1721149482955
+end_time: 1721145902091
+entry_point_name: ''
+experiment_id: '437449048752048244'
+lifecycle_stage: deleted
+run_id: 3ce47d9118bb4819b75d8dc7ddf76d56
+run_name: smiling-frog-177
+run_uuid: 3ce47d9118bb4819b75d8dc7ddf76d56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721145789414
+status: 3
+tags: []
+user_id: himan

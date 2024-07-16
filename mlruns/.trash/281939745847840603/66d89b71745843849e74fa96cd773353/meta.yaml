@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/66d89b71745843849e74fa96cd773353/artifacts
+deleted_time: 1721148913553
+end_time: 1721148082436
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 66d89b71745843849e74fa96cd773353
+run_name: fearless-ray-938
+run_uuid: 66d89b71745843849e74fa96cd773353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148081363
+status: 3
+tags: []
+user_id: himan

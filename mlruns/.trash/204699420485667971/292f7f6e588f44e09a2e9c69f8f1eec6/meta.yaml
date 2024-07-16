@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/292f7f6e588f44e09a2e9c69f8f1eec6/artifacts
+deleted_time: 1721149478685
+end_time: 1721149404126
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 292f7f6e588f44e09a2e9c69f8f1eec6
+run_name: caring-chimp-960
+run_uuid: 292f7f6e588f44e09a2e9c69f8f1eec6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149403531
+status: 3
+tags: []
+user_id: himan

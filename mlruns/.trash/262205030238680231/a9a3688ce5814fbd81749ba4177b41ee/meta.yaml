@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/a9a3688ce5814fbd81749ba4177b41ee/artifacts
+deleted_time: 1721139922118
+end_time: 1721139060229
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: a9a3688ce5814fbd81749ba4177b41ee
+run_name: industrious-mole-943
+run_uuid: a9a3688ce5814fbd81749ba4177b41ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139059871
+status: 3
+tags: []
+user_id: himan

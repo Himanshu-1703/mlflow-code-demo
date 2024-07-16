@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/6eb8867b3eb541b09dae826d5fb42077/artifacts
+deleted_time: 1721149478685
+end_time: 1721149237667
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 6eb8867b3eb541b09dae826d5fb42077
+run_name: monumental-wren-222
+run_uuid: 6eb8867b3eb541b09dae826d5fb42077
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149237052
+status: 3
+tags: []
+user_id: himan

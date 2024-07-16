@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/c5be9dbf47874fe9856539537388f0b4/artifacts
+deleted_time: 1721139922118
+end_time: 1721139320344
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: c5be9dbf47874fe9856539537388f0b4
+run_name: colorful-crab-200
+run_uuid: c5be9dbf47874fe9856539537388f0b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139319922
+status: 3
+tags: []
+user_id: himan

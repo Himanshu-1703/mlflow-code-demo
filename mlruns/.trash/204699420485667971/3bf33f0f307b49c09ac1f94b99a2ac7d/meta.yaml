@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/3bf33f0f307b49c09ac1f94b99a2ac7d/artifacts
+deleted_time: 1721149478685
+end_time: 1721149233137
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 3bf33f0f307b49c09ac1f94b99a2ac7d
+run_name: gifted-eel-410
+run_uuid: 3bf33f0f307b49c09ac1f94b99a2ac7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149232476
+status: 3
+tags: []
+user_id: himan

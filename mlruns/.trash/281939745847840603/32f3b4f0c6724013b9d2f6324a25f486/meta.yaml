@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/32f3b4f0c6724013b9d2f6324a25f486/artifacts
+deleted_time: 1721148913553
+end_time: 1721148068877
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 32f3b4f0c6724013b9d2f6324a25f486
+run_name: hilarious-croc-35
+run_uuid: 32f3b4f0c6724013b9d2f6324a25f486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148068491
+status: 3
+tags: []
+user_id: himan

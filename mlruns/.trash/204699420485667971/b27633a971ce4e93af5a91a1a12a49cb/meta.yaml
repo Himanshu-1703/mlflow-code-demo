@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/b27633a971ce4e93af5a91a1a12a49cb/artifacts
+deleted_time: 1721149478685
+end_time: 1721149194833
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: b27633a971ce4e93af5a91a1a12a49cb
+run_name: rogue-shrimp-546
+run_uuid: b27633a971ce4e93af5a91a1a12a49cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149193982
+status: 3
+tags: []
+user_id: himan

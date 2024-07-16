@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/35de2cb881d849ff893e8c208be36eff/artifacts
+deleted_time: 1721149478685
+end_time: 1721149202459
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 35de2cb881d849ff893e8c208be36eff
+run_name: handsome-sponge-521
+run_uuid: 35de2cb881d849ff893e8c208be36eff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149201856
+status: 3
+tags: []
+user_id: himan

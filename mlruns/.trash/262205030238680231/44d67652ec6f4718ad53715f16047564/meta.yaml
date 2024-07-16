@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/44d67652ec6f4718ad53715f16047564/artifacts
+deleted_time: 1721139922118
+end_time: 1721139074616
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: 44d67652ec6f4718ad53715f16047564
+run_name: unruly-hawk-581
+run_uuid: 44d67652ec6f4718ad53715f16047564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139074327
+status: 3
+tags: []
+user_id: himan

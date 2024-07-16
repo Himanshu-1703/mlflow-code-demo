@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/3fa1103022be4298a6f5fc6fdb1ca56a/artifacts
+deleted_time: 1721149478685
+end_time: 1721149207112
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 3fa1103022be4298a6f5fc6fdb1ca56a
+run_name: delicate-toad-399
+run_uuid: 3fa1103022be4298a6f5fc6fdb1ca56a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149206629
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/1d7fc9cff49644f4a1d9577e57a4d2af/artifacts
+end_time: 1721149553932
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 1d7fc9cff49644f4a1d9577e57a4d2af
+run_name: serious-shrike-263
+run_uuid: 1d7fc9cff49644f4a1d9577e57a4d2af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149553145
+status: 3
+tags: []
+user_id: himan

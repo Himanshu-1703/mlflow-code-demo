@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/aa159b77166d4f6a933e647ce4718820/artifacts
+deleted_time: 1721139922118
+end_time: 1721139321269
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: aa159b77166d4f6a933e647ce4718820
+run_name: adaptable-whale-893
+run_uuid: aa159b77166d4f6a933e647ce4718820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139320830
+status: 3
+tags: []
+user_id: himan

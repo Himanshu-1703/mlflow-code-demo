@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/5c51d56725ee44deb5c1740887610ec1/artifacts
+deleted_time: 1721149478685
+end_time: 1721149394026
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 5c51d56725ee44deb5c1740887610ec1
+run_name: able-finch-259
+run_uuid: 5c51d56725ee44deb5c1740887610ec1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149393184
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/3b527a109890453ca2d8f7fb7cc3048d/artifacts
+deleted_time: 1721148913553
+end_time: 1721148076734
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 3b527a109890453ca2d8f7fb7cc3048d
+run_name: peaceful-jay-3
+run_uuid: 3b527a109890453ca2d8f7fb7cc3048d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148075994
+status: 3
+tags: []
+user_id: himan

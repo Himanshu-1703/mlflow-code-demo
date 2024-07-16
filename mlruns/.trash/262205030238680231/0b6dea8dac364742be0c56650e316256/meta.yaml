@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/0b6dea8dac364742be0c56650e316256/artifacts
+deleted_time: 1721139922118
+end_time: 1721139492401
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: 0b6dea8dac364742be0c56650e316256
+run_name: rumbling-moth-94
+run_uuid: 0b6dea8dac364742be0c56650e316256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139492051
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/64bfcef0f5624a25875cb3a7c2d7a236/artifacts
+deleted_time: 1721149478685
+end_time: 1721149169792
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 64bfcef0f5624a25875cb3a7c2d7a236
+run_name: bald-mare-531
+run_uuid: 64bfcef0f5624a25875cb3a7c2d7a236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149169236
+status: 3
+tags: []
+user_id: himan

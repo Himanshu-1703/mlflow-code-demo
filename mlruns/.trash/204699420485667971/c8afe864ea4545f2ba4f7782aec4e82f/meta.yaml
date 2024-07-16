@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/c8afe864ea4545f2ba4f7782aec4e82f/artifacts
+deleted_time: 1721149478685
+end_time: 1721149176144
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: c8afe864ea4545f2ba4f7782aec4e82f
+run_name: beautiful-doe-138
+run_uuid: c8afe864ea4545f2ba4f7782aec4e82f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149175481
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/930f902f2e0f46a3b7453f2ca9f30dd6/artifacts
+deleted_time: 1721149478685
+end_time: 1721149193892
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 930f902f2e0f46a3b7453f2ca9f30dd6
+run_name: fearless-goose-210
+run_uuid: 930f902f2e0f46a3b7453f2ca9f30dd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149193292
+status: 3
+tags: []
+user_id: himan

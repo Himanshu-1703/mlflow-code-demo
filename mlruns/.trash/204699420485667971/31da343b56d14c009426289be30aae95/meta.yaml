@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/31da343b56d14c009426289be30aae95/artifacts
+deleted_time: 1721149478685
+end_time: 1721149341317
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 31da343b56d14c009426289be30aae95
+run_name: orderly-eel-317
+run_uuid: 31da343b56d14c009426289be30aae95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149340321
+status: 3
+tags: []
+user_id: himan

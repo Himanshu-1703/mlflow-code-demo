@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/b118edf3feeb4b13a9663e89dab70927/artifacts
+end_time: 1721149521584
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: b118edf3feeb4b13a9663e89dab70927
+run_name: overjoyed-chimp-536
+run_uuid: b118edf3feeb4b13a9663e89dab70927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149520798
+status: 3
+tags: []
+user_id: himan

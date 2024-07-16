@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/4d1fe34689334556b53c74367c623311/artifacts
+end_time: 1721149538554
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 4d1fe34689334556b53c74367c623311
+run_name: luminous-bass-764
+run_uuid: 4d1fe34689334556b53c74367c623311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149537585
+status: 3
+tags: []
+user_id: himan

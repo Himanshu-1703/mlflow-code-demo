@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/875799dd7a0f491388a823fda2fb234f/artifacts
+deleted_time: 1721139922118
+end_time: 1721139498526
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: 875799dd7a0f491388a823fda2fb234f
+run_name: indecisive-robin-154
+run_uuid: 875799dd7a0f491388a823fda2fb234f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139497953
+status: 3
+tags: []
+user_id: himan

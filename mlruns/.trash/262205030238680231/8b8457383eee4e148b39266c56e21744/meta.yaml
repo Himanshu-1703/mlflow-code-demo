@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/8b8457383eee4e148b39266c56e21744/artifacts
+deleted_time: 1721139922118
+end_time: 1721139074252
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: 8b8457383eee4e148b39266c56e21744
+run_name: skillful-fowl-442
+run_uuid: 8b8457383eee4e148b39266c56e21744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139073677
+status: 3
+tags: []
+user_id: himan

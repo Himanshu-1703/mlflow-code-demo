@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/6cbe5607157f415d89d629da3859b22a/artifacts
+deleted_time: 1721149478685
+end_time: 1721149356601
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 6cbe5607157f415d89d629da3859b22a
+run_name: powerful-cub-884
+run_uuid: 6cbe5607157f415d89d629da3859b22a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149356072
+status: 3
+tags: []
+user_id: himan

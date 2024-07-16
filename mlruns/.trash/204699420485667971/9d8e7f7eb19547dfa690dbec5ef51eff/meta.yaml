@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/9d8e7f7eb19547dfa690dbec5ef51eff/artifacts
+deleted_time: 1721149478685
+end_time: 1721149321021
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 9d8e7f7eb19547dfa690dbec5ef51eff
+run_name: skittish-foal-352
+run_uuid: 9d8e7f7eb19547dfa690dbec5ef51eff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149320637
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/1e1eca4c42154e3499b87d808043cbe9/artifacts
+deleted_time: 1721148913553
+end_time: 1721148100397
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 1e1eca4c42154e3499b87d808043cbe9
+run_name: awesome-stork-848
+run_uuid: 1e1eca4c42154e3499b87d808043cbe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148099652
+status: 3
+tags: []
+user_id: himan

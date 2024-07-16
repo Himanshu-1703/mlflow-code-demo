@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/fc0043b0b61f49c7aaaabbddf3afec10/artifacts
+deleted_time: 1721139922118
+end_time: 1721139072715
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: fc0043b0b61f49c7aaaabbddf3afec10
+run_name: gregarious-quail-709
+run_uuid: fc0043b0b61f49c7aaaabbddf3afec10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139071607
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/c6b937e2f1624df6b025914931539094/artifacts
+deleted_time: 1721140444737
+end_time: 1721140337977
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: c6b937e2f1624df6b025914931539094
+run_name: gifted-hawk-691
+run_uuid: c6b937e2f1624df6b025914931539094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140337457
+status: 3
+tags: []
+user_id: himan

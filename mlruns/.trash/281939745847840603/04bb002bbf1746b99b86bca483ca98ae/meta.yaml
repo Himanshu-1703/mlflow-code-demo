@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/04bb002bbf1746b99b86bca483ca98ae/artifacts
+deleted_time: 1721148913553
+end_time: 1721148079345
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 04bb002bbf1746b99b86bca483ca98ae
+run_name: learned-kite-25
+run_uuid: 04bb002bbf1746b99b86bca483ca98ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148078543
+status: 3
+tags: []
+user_id: himan

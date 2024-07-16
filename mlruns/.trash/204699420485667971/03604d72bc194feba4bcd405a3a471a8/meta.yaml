@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/03604d72bc194feba4bcd405a3a471a8/artifacts
+deleted_time: 1721149478685
+end_time: 1721149406986
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 03604d72bc194feba4bcd405a3a471a8
+run_name: bedecked-penguin-73
+run_uuid: 03604d72bc194feba4bcd405a3a471a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149406281
+status: 3
+tags: []
+user_id: himan

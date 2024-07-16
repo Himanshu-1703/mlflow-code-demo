@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/a9682f7fad9743c7b018c689b33471bb/artifacts
+end_time: 1721149557484
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: a9682f7fad9743c7b018c689b33471bb
+run_name: enthused-gnu-394
+run_uuid: a9682f7fad9743c7b018c689b33471bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149556470
+status: 3
+tags: []
+user_id: himan

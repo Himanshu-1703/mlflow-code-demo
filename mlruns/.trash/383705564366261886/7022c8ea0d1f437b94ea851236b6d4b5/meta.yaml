@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/383705564366261886/7022c8ea0d1f437b94ea851236b6d4b5/artifacts
+deleted_time: 1721139927403
+end_time: 1721137706834
+entry_point_name: ''
+experiment_id: '383705564366261886'
+lifecycle_stage: deleted
+run_id: 7022c8ea0d1f437b94ea851236b6d4b5
+run_name: auspicious-mole-173
+run_uuid: 7022c8ea0d1f437b94ea851236b6d4b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721137631280
+status: 3
+tags: []
+user_id: himan

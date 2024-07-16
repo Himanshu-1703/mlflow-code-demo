@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/e142fbe8cbfd49ed99ff4d87babd84bd/artifacts
+deleted_time: 1721139922118
+end_time: 1721139067700
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: e142fbe8cbfd49ed99ff4d87babd84bd
+run_name: clumsy-squirrel-274
+run_uuid: e142fbe8cbfd49ed99ff4d87babd84bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139067126
+status: 3
+tags: []
+user_id: himan

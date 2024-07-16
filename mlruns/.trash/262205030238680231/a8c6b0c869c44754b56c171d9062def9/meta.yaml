@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/a8c6b0c869c44754b56c171d9062def9/artifacts
+deleted_time: 1721139922118
+end_time: 1721139495262
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: a8c6b0c869c44754b56c171d9062def9
+run_name: loud-turtle-249
+run_uuid: a8c6b0c869c44754b56c171d9062def9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139494806
+status: 3
+tags: []
+user_id: himan

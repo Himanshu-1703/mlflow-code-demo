@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/b1b0b8cad60a43658c2689e71f1b76ef/artifacts
+deleted_time: 1721149478685
+end_time: 1721149173327
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: b1b0b8cad60a43658c2689e71f1b76ef
+run_name: exultant-skink-275
+run_uuid: b1b0b8cad60a43658c2689e71f1b76ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149172433
+status: 3
+tags: []
+user_id: himan

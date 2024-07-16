@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/437449048752048244/eb96bb1ac6c04eb2a04f2875b0f68927/artifacts
+deleted_time: 1721149482955
+end_time: 1721146506643
+entry_point_name: ''
+experiment_id: '437449048752048244'
+lifecycle_stage: deleted
+run_id: eb96bb1ac6c04eb2a04f2875b0f68927
+run_name: serious-cow-60
+run_uuid: eb96bb1ac6c04eb2a04f2875b0f68927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721146386931
+status: 3
+tags: []
+user_id: himan

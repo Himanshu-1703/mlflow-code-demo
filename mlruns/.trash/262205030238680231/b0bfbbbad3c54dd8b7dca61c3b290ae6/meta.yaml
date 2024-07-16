@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/b0bfbbbad3c54dd8b7dca61c3b290ae6/artifacts
+deleted_time: 1721139922118
+end_time: 1721139507242
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: b0bfbbbad3c54dd8b7dca61c3b290ae6
+run_name: gaudy-cub-481
+run_uuid: b0bfbbbad3c54dd8b7dca61c3b290ae6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139506709
+status: 3
+tags: []
+user_id: himan

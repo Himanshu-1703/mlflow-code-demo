@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/9b991707b7044c9a9ae4a9ca96c4cdd6/artifacts
+deleted_time: 1721149478685
+end_time: 1721149191032
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 9b991707b7044c9a9ae4a9ca96c4cdd6
+run_name: unruly-dolphin-341
+run_uuid: 9b991707b7044c9a9ae4a9ca96c4cdd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149190657
+status: 3
+tags: []
+user_id: himan

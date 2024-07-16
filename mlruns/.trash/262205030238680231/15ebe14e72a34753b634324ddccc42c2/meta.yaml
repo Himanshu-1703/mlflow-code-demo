@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/15ebe14e72a34753b634324ddccc42c2/artifacts
+deleted_time: 1721139922118
+end_time: 1721139085434
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: 15ebe14e72a34753b634324ddccc42c2
+run_name: rebellious-koi-314
+run_uuid: 15ebe14e72a34753b634324ddccc42c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139085043
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/eed18fff1ead4ebbb08405bb9372a818/artifacts
+deleted_time: 1721139922118
+end_time: 1721139305558
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: eed18fff1ead4ebbb08405bb9372a818
+run_name: calm-worm-807
+run_uuid: eed18fff1ead4ebbb08405bb9372a818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139305134
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/6ff4e37087f248a09a935b134f7d93cf/artifacts
+deleted_time: 1721148913553
+end_time: 1721148053989
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 6ff4e37087f248a09a935b134f7d93cf
+run_name: rogue-hog-690
+run_uuid: 6ff4e37087f248a09a935b134f7d93cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148052572
+status: 3
+tags: []
+user_id: himan

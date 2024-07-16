@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/bf989365f4d14398a77ff928e28f2117/artifacts
+deleted_time: 1721148913553
+end_time: 1721148102556
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: bf989365f4d14398a77ff928e28f2117
+run_name: indecisive-bird-860
+run_uuid: bf989365f4d14398a77ff928e28f2117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148052384
+status: 3
+tags: []
+user_id: himan

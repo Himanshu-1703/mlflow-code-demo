@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/5b29b22a76b442e1ae90e2098a4f2146/artifacts
+end_time: 1721149549182
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 5b29b22a76b442e1ae90e2098a4f2146
+run_name: enchanting-vole-3
+run_uuid: 5b29b22a76b442e1ae90e2098a4f2146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149548420
+status: 3
+tags: []
+user_id: himan

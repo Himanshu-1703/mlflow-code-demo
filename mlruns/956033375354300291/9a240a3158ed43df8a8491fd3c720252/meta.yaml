@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/9a240a3158ed43df8a8491fd3c720252/artifacts
+end_time: 1721149534365
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 9a240a3158ed43df8a8491fd3c720252
+run_name: beautiful-smelt-309
+run_uuid: 9a240a3158ed43df8a8491fd3c720252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149533650
+status: 3
+tags: []
+user_id: himan

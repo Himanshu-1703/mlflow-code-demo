@@ -1,0 +1,1 @@
+[('impute', SimpleImputer(strategy='median')), ('outliers', Winsorizer(fold=3)), ('scale', StandardScaler())]

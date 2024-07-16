@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/87f91d23a5d04d4d985a912787c34061/artifacts
+deleted_time: 1721149478685
+end_time: 1721149417740
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 87f91d23a5d04d4d985a912787c34061
+run_name: wise-shrike-801
+run_uuid: 87f91d23a5d04d4d985a912787c34061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149416903
+status: 3
+tags: []
+user_id: himan

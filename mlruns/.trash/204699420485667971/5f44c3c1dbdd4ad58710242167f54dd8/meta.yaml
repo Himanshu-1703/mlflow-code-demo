@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/5f44c3c1dbdd4ad58710242167f54dd8/artifacts
+deleted_time: 1721149478685
+end_time: 1721149169177
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 5f44c3c1dbdd4ad58710242167f54dd8
+run_name: agreeable-trout-795
+run_uuid: 5f44c3c1dbdd4ad58710242167f54dd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149168583
+status: 3
+tags: []
+user_id: himan

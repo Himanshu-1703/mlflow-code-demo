@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/71a4c20b844d42b7bc03bb1f0fda81c6/artifacts
+deleted_time: 1721140444737
+end_time: 1721140320070
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: 71a4c20b844d42b7bc03bb1f0fda81c6
+run_name: bedecked-wren-613
+run_uuid: 71a4c20b844d42b7bc03bb1f0fda81c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140319425
+status: 3
+tags: []
+user_id: himan

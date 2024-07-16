@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/aa3ecaff00b84c7cb510bf44e22fe8aa/artifacts
+deleted_time: 1721139922118
+end_time: 1721139297689
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: aa3ecaff00b84c7cb510bf44e22fe8aa
+run_name: upbeat-sloth-426
+run_uuid: aa3ecaff00b84c7cb510bf44e22fe8aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139297284
+status: 3
+tags: []
+user_id: himan

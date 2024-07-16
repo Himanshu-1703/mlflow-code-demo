@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/585a329aa87b459bbd23d5b5fe5302eb/artifacts
+deleted_time: 1721149478685
+end_time: 1721149342353
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 585a329aa87b459bbd23d5b5fe5302eb
+run_name: intelligent-fawn-315
+run_uuid: 585a329aa87b459bbd23d5b5fe5302eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149341441
+status: 3
+tags: []
+user_id: himan

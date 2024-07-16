@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/cbcc795307ce4ca6981f5c30c196d0c2/artifacts
+deleted_time: 1721149478685
+end_time: 1721149408726
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: cbcc795307ce4ca6981f5c30c196d0c2
+run_name: delicate-quail-743
+run_uuid: cbcc795307ce4ca6981f5c30c196d0c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149407885
+status: 3
+tags: []
+user_id: himan

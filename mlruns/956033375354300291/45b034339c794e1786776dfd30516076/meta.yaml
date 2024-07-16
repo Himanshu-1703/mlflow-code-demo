@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/956033375354300291/45b034339c794e1786776dfd30516076/artifacts
+end_time: 1721149536801
+entry_point_name: ''
+experiment_id: '956033375354300291'
+lifecycle_stage: active
+run_id: 45b034339c794e1786776dfd30516076
+run_name: handsome-koi-244
+run_uuid: 45b034339c794e1786776dfd30516076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149535779
+status: 3
+tags: []
+user_id: himan

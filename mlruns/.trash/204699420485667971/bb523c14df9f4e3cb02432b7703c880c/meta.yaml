@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/bb523c14df9f4e3cb02432b7703c880c/artifacts
+deleted_time: 1721149478685
+end_time: 1721149340200
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: bb523c14df9f4e3cb02432b7703c880c
+run_name: bold-perch-542
+run_uuid: bb523c14df9f4e3cb02432b7703c880c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149338996
+status: 3
+tags: []
+user_id: himan

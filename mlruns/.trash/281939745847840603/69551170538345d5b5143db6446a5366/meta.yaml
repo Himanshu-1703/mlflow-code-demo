@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/69551170538345d5b5143db6446a5366/artifacts
+deleted_time: 1721148913553
+end_time: 1721148069898
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 69551170538345d5b5143db6446a5366
+run_name: carefree-moth-145
+run_uuid: 69551170538345d5b5143db6446a5366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148068943
+status: 3
+tags: []
+user_id: himan

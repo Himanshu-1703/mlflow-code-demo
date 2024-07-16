@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/4c11965ac66344e9bf55f35a77d280f6/artifacts
+deleted_time: 1721140444737
+end_time: 1721140329889
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: 4c11965ac66344e9bf55f35a77d280f6
+run_name: marvelous-toad-618
+run_uuid: 4c11965ac66344e9bf55f35a77d280f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140328805
+status: 3
+tags: []
+user_id: himan

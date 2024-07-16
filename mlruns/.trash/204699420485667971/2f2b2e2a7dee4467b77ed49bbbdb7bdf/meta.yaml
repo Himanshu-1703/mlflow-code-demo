@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/2f2b2e2a7dee4467b77ed49bbbdb7bdf/artifacts
+deleted_time: 1721149478685
+end_time: 1721149329836
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 2f2b2e2a7dee4467b77ed49bbbdb7bdf
+run_name: gregarious-stork-382
+run_uuid: 2f2b2e2a7dee4467b77ed49bbbdb7bdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149328727
+status: 3
+tags: []
+user_id: himan

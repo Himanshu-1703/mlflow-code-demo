@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/09865c6d0d2e4839a86a537b3d1bca3c/artifacts
+deleted_time: 1721149478685
+end_time: 1721149396764
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 09865c6d0d2e4839a86a537b3d1bca3c
+run_name: clumsy-yak-667
+run_uuid: 09865c6d0d2e4839a86a537b3d1bca3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149396137
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/ec5977e0219a463e9d44cdc0d1b84238/artifacts
+deleted_time: 1721148913553
+end_time: 1721148072434
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: ec5977e0219a463e9d44cdc0d1b84238
+run_name: thoughtful-cub-503
+run_uuid: ec5977e0219a463e9d44cdc0d1b84238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148071665
+status: 3
+tags: []
+user_id: himan

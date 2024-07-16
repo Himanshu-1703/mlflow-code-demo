@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/ca3d846beba94a6494b5a9ac06e0f78d/artifacts
+deleted_time: 1721139922118
+end_time: 1721139490425
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: ca3d846beba94a6494b5a9ac06e0f78d
+run_name: exultant-gull-447
+run_uuid: ca3d846beba94a6494b5a9ac06e0f78d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139489966
+status: 3
+tags: []
+user_id: himan

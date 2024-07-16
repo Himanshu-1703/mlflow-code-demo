@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/a24cae6e8f6f41db9b38b6259d09f141/artifacts
+deleted_time: 1721140444737
+end_time: 1721140324548
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: a24cae6e8f6f41db9b38b6259d09f141
+run_name: unequaled-finch-289
+run_uuid: a24cae6e8f6f41db9b38b6259d09f141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140323842
+status: 3
+tags: []
+user_id: himan

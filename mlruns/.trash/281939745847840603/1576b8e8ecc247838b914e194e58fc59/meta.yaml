@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/281939745847840603/1576b8e8ecc247838b914e194e58fc59/artifacts
+deleted_time: 1721148913553
+end_time: 1721148071547
+entry_point_name: ''
+experiment_id: '281939745847840603'
+lifecycle_stage: deleted
+run_id: 1576b8e8ecc247838b914e194e58fc59
+run_name: placid-skink-829
+run_uuid: 1576b8e8ecc247838b914e194e58fc59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721148070620
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/5c01e09dd4cb4fe488087464702cce7c/artifacts
+deleted_time: 1721149478685
+end_time: 1721149315825
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 5c01e09dd4cb4fe488087464702cce7c
+run_name: whimsical-swan-758
+run_uuid: 5c01e09dd4cb4fe488087464702cce7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149315052
+status: 3
+tags: []
+user_id: himan

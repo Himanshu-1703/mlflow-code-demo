@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/262205030238680231/fa3aa1975fb84623969c1116fc9f3ab2/artifacts
+deleted_time: 1721139922118
+end_time: 1721139508725
+entry_point_name: ''
+experiment_id: '262205030238680231'
+lifecycle_stage: deleted
+run_id: fa3aa1975fb84623969c1116fc9f3ab2
+run_name: silent-deer-760
+run_uuid: fa3aa1975fb84623969c1116fc9f3ab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721139508297
+status: 3
+tags: []
+user_id: himan

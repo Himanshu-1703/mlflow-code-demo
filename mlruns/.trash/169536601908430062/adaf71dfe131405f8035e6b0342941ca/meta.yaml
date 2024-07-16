@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/169536601908430062/adaf71dfe131405f8035e6b0342941ca/artifacts
+deleted_time: 1721140444737
+end_time: 1721140301801
+entry_point_name: ''
+experiment_id: '169536601908430062'
+lifecycle_stage: deleted
+run_id: adaf71dfe131405f8035e6b0342941ca
+run_name: upset-ox-632
+run_uuid: adaf71dfe131405f8035e6b0342941ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721140300751
+status: 3
+tags: []
+user_id: himan

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204699420485667971/8f70a008776f4780b78f847e28a07dd0/artifacts
+deleted_time: 1721149478685
+end_time: 1721149227957
+entry_point_name: ''
+experiment_id: '204699420485667971'
+lifecycle_stage: deleted
+run_id: 8f70a008776f4780b78f847e28a07dd0
+run_name: silent-koi-263
+run_uuid: 8f70a008776f4780b78f847e28a07dd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721149227391
+status: 3
+tags: []
+user_id: himan

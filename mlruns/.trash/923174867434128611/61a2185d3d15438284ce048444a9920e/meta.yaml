@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/923174867434128611/61a2185d3d15438284ce048444a9920e/artifacts
+deleted_time: 1721148026233
+end_time: 1721147997103
+entry_point_name: ''
+experiment_id: '923174867434128611'
+lifecycle_stage: deleted
+run_id: 61a2185d3d15438284ce048444a9920e
+run_name: fun-ray-321
+run_uuid: 61a2185d3d15438284ce048444a9920e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721147948632
+status: 4
+tags: []
+user_id: himan
